@@ -17,10 +17,16 @@ edit file run_driver.ini, sesuaikan isi nya.
 
 ```
 [General]
+[General]
 tcp_host = 127.0.0.1    # IP moxa
 tcp_port = 5000         # port moxa
-server = 192.168.0.100  # IP server simondar
+server = 192.168.0.100  # IP simondar
 db_offline = False
+
+MY_DB = lis_pmi         # DB mysql simdondar
+MY_TABLE = cobas6000    # table mysql simdondar
+MY_USER = xxxx          # username login mysql
+MY_PASS = xxx           # password login mysql
 ```
 
 untuk edit reagent / test code
