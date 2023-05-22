@@ -35,7 +35,7 @@
 
 
 import configparser
-import serial
+# import serial
 import time
 import logging
 import sqlite3
@@ -149,10 +149,10 @@ class cobas6k(object):
     def decode(self,data):
         if not isinstance(data, bytes):
             logging.error ('bytes expected, got %r' % data)
-        if data.startswith(STX):  # may be decode message \x02...\x03CS\r\n
+        if data.startswith(STX.decode(ENCODING)):  # may be decode message \x02...\x03CS\r\n
             records = self.decode_message(data)
             return records
-        byte = data[:1].decode()
+        byte = data[:1]
         if  byte.isdigit():
             records = self.decode_frame(data)
             return records
@@ -173,25 +173,25 @@ class cobas6k(object):
     def decode_frame(self,frame):
         if not isinstance(frame,bytes):
             logging.error('bytes expected, got %r' % frame)
-        if frame.endswith(CR + ETX):
+        if frame.endswith(CR.decode(ENCODING) + ETX.decode(ENCODING)):
             frame = frame[:-2]
         elif frame.endswith(ETB):
             frame = frame[:-1]
         else:
             logging.warning('Incomplete frame data %r. Expected trailing <CR><ETX> or <ETB> chars' % frame)
-        seq = frame[:1].decode()
+        seq = frame[:1]
         if not seq.isdigit():
             logging.warning('Malformed ASTM frame. Expected leading seq number %r' % frame)
         seq, records = int(seq), frame[1:]
         return  [self.decode_record(record)
-                 for record in records.split(RECORD_SEP)]
+                 for record in records.split(RECORD_SEP.decode(ENCODING))]
 
     def decode_record(self,record):
         fields = []
-        for item in record.split(FIELD_SEP):
-            if REPEAT_SEP in item:
+        for item in record.split(FIELD_SEP.decode(ENCODING)):
+            if REPEAT_SEP.decode(ENCODING) in item:
                 item = self.decode_repeated_component(item)
-            elif COMPONENT_SEP in item:
+            elif COMPONENT_SEP.decode(ENCODING) in item:
                 item = self.decode_component(item)
             else:
                 item = item
@@ -200,11 +200,11 @@ class cobas6k(object):
 
     def decode_component(self,field):
         return [[None, item][bool(item)]
-                for item in field.split(COMPONENT_SEP)]
+                for item in field.split(COMPONENT_SEP.decode(ENCODING))]
     
     def decode_repeated_component(self,component):
         return [self.decode_component(item)
-            for item in component.split(REPEAT_SEP)]
+            for item in component.split(REPEAT_SEP.decode(ENCODING))]
 
 
     def encode_message(self,seq,records):
@@ -219,14 +219,14 @@ class cobas6k(object):
         for field in record:
             if isinstance(field, bytes):
                 _append(field)
-            elif isinstance(field, unicode):
+            elif isinstance(field, str):
                 _append(field.encode(encoding))
             elif isinstance(field, Iterable):
                 _append(encode_component(field, encoding))
             elif field is None:
                 _append(b'')
             else:
-                _append(unicode(field).encode(encoding))
+                _append(str(field).encode(encoding))
         return FIELD_SEP.join(fields)
 
     def make_chunks(self,s, n):
@@ -294,6 +294,7 @@ class cobas6k(object):
 
     def my_insert(self,sql):
         logging.info('IP MySQL [%s]' % self.my_server)
+        logging.info(sql)
         try:
             conn = MySQLdb.connect(host= self.my_server,
                       user=MY_USER,
@@ -584,30 +585,30 @@ L|1|N
             while 1:
                 data = self.conn.recv(BUFFER_SIZE)
                 if not data: break
-                if isinstance(data, unicode):
+                if isinstance(data, str):
                     data = data.encode('utf-8')
                 logging.info("Data: [{}]".format(data))
                 if data!='':
                     self.send_ack()
                     #if len(data)>4:
                     #    data = str(data[2:-4]).replace(ETB,'')
-                    self.message = self.message + data
+                    self.message = self.message + data.decode(ENCODING)
                     logging.info('message [%s]' % str(self.message))
-                    if (str(self.message).startswith(STX) and str(self.message).endswith(EOT)) or (str(self.message).startswith(ENQ) and str(self.message).endswith(EOT)) or str(data)==EOT :
+                    if (str(self.message).startswith(STX.decode(ENCODING)) and str(self.message).endswith(EOT.decode(ENCODING))) or (str(self.message).startswith(ENQ.decode(ENCODING)) and str(self.message).endswith(EOT.decode(ENCODING))) or str(data)==EOT.decode(ENCODING) :
                         if len(self.message)>0:
                             logging.info('start processing message [%s]' % str(self.message))
                             msg = self.message
-                            msg = str(msg).replace(ENQ,'')
-                            msg = str(msg).replace(ETX,'')
-                            msg = str(msg).replace(EOT,'')
-                            msg = str(msg).replace(STX,'')
+                            msg = str(msg).replace(ENQ.decode(ENCODING),'')
+                            msg = str(msg).replace(ETX.decode(ENCODING),'')
+                            msg = str(msg).replace(EOT.decode(ENCODING),'')
+                            msg = str(msg).replace(STX.decode(ENCODING),'')
                             # clean ETB
                             logging.info('clean ETB.')
                             msg = self.clean_msg(msg)
                             logging.info('cleaned message is [%s]' % str(msg))
                             msg = msg[1:-3]
                             logging.info('cleaned message 2 is [%s]' % str(msg))
-                            msg = self.decode('1'+str(msg)+CR+ETX)
+                            msg = self.decode('1'+str(msg)+CR.decode(ENCODING)+ETX.decode(ENCODING))
                             logging.info('decoded to [%s]' % str(msg))
                             self.handlemsg(msg)
                             self.message = ''

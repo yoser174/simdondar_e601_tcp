@@ -1,0 +1,1374 @@
+2023-05-22 15:25:05,310 - run_driver - INFO - Starting program.
+2023-05-22 15:25:05,327 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:25:05,327 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:25:05,327 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:25:05,328 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:25:05,328 - run_driver - INFO - trying to run driver...
+2023-05-22 15:25:05,328 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:25:05,329 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:25:05,330 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:25:05,330 - run_driver - INFO - Run driver..
+2023-05-22 15:25:05,331 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:25:07,388 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-05-22 15:25:54,552 - run_driver - INFO - Starting program.
+2023-05-22 15:25:54,552 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:25:54,552 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:25:54,553 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:25:54,553 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:25:54,553 - run_driver - INFO - trying to run driver...
+2023-05-22 15:25:54,554 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:25:54,554 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:25:54,554 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:25:54,555 - run_driver - INFO - Run driver..
+2023-05-22 15:25:54,555 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:25:54,556 - cobas6k - INFO - Ready.
+2023-05-22 15:26:11,702 - run_driver - ERROR - Failed [name 'unicode' is not defined]
+2023-05-22 15:28:10,394 - run_driver - INFO - Starting program.
+2023-05-22 15:28:10,395 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:28:10,396 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:28:10,396 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:28:10,397 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:28:10,397 - run_driver - INFO - trying to run driver...
+2023-05-22 15:28:10,398 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:28:10,398 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:28:10,399 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:28:10,399 - run_driver - INFO - Run driver..
+2023-05-22 15:28:10,400 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:28:10,414 - cobas6k - INFO - Ready.
+2023-05-22 15:29:43,068 - run_driver - INFO - Starting program.
+2023-05-22 15:29:43,069 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:29:43,069 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:29:43,069 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:29:43,070 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:29:43,070 - run_driver - INFO - trying to run driver...
+2023-05-22 15:29:43,071 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:29:43,071 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:29:43,072 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:29:43,072 - run_driver - INFO - Run driver..
+2023-05-22 15:29:43,073 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:29:43,074 - cobas6k - INFO - Ready.
+2023-05-22 15:29:48,429 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:29:48,434 - cobas6k - INFO - >>ACK
+2023-05-22 15:30:45,388 - run_driver - INFO - Starting program.
+2023-05-22 15:30:45,389 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:30:45,390 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:30:45,391 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:30:45,392 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:30:45,392 - run_driver - INFO - trying to run driver...
+2023-05-22 15:30:45,393 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:30:45,394 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:30:45,394 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:30:45,395 - run_driver - INFO - Run driver..
+2023-05-22 15:30:45,395 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:30:45,396 - cobas6k - INFO - Ready.
+2023-05-22 15:30:50,064 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:30:50,065 - cobas6k - INFO - >>ACK
+2023-05-22 15:30:50,563 - cobas6k - INFO - message []
+2023-05-22 15:32:14,492 - run_driver - INFO - Starting program.
+2023-05-22 15:32:14,492 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:32:14,497 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:32:14,498 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:32:14,498 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:32:14,499 - run_driver - INFO - trying to run driver...
+2023-05-22 15:32:14,499 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:32:14,500 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:32:14,500 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:32:14,501 - run_driver - INFO - Run driver..
+2023-05-22 15:32:14,502 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:32:14,503 - cobas6k - INFO - Ready.
+2023-05-22 15:32:17,176 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:32:17,177 - cobas6k - INFO - >>ACK
+2023-05-22 15:32:17,197 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:33:24,826 - run_driver - INFO - Starting program.
+2023-05-22 15:33:24,827 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:33:24,828 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:33:24,828 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:33:24,829 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:33:24,829 - run_driver - INFO - trying to run driver...
+2023-05-22 15:33:24,830 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:33:24,831 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:33:24,832 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:33:24,832 - run_driver - INFO - Run driver..
+2023-05-22 15:33:24,833 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:33:24,839 - cobas6k - INFO - Ready.
+2023-05-22 15:33:29,818 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:33:29,819 - cobas6k - INFO - >>ACK
+2023-05-22 15:33:29,840 - cobas6k - INFO - message []
+2023-05-22 15:34:55,256 - run_driver - INFO - Starting program.
+2023-05-22 15:34:55,257 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:34:55,257 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:34:55,258 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:34:55,258 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:34:55,259 - run_driver - INFO - trying to run driver...
+2023-05-22 15:34:55,259 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:34:55,260 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:34:55,260 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:34:55,261 - run_driver - INFO - Run driver..
+2023-05-22 15:34:55,261 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:34:55,273 - cobas6k - INFO - Ready.
+2023-05-22 15:34:58,239 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:34:58,240 - cobas6k - INFO - >>ACK
+2023-05-22 15:34:58,267 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:35:48,312 - run_driver - INFO - Starting program.
+2023-05-22 15:35:48,313 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:35:48,313 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:35:48,314 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:35:48,314 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:35:48,315 - run_driver - INFO - trying to run driver...
+2023-05-22 15:35:48,316 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:35:48,316 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:35:48,317 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:35:48,317 - run_driver - INFO - Run driver..
+2023-05-22 15:35:48,318 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:35:48,319 - cobas6k - INFO - Ready.
+2023-05-22 15:35:55,517 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:35:55,518 - cobas6k - INFO - >>ACK
+2023-05-22 15:35:56,417 - cobas6k - INFO - message []
+2023-05-22 15:35:56,443 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:35:56,451 - cobas6k - INFO - >>ACK
+2023-05-22 15:35:56,473 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:35:56,512 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:35:56,516 - cobas6k - INFO - >>ACK
+2023-05-22 15:35:56,573 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:35:56,595 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:35:56,596 - cobas6k - INFO - >>ACK
+2023-05-22 15:35:56,619 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:35:56,638 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:13,372 - run_driver - INFO - Starting program.
+2023-05-22 15:36:13,373 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:36:13,373 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:36:13,374 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:36:13,375 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:36:13,375 - run_driver - INFO - trying to run driver...
+2023-05-22 15:36:13,376 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:36:13,376 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:36:13,377 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:36:13,378 - run_driver - INFO - Run driver..
+2023-05-22 15:36:13,378 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:36:13,379 - cobas6k - INFO - Ready.
+2023-05-22 15:36:19,199 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:36:19,200 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:20,120 - cobas6k - INFO - message []
+2023-05-22 15:36:20,133 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:36:20,134 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:20,161 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:36:20,251 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:36:20,258 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:20,283 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:20,309 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:36:20,311 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:20,330 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:20,334 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:20,336 - cobas6k - INFO - clean ETB.
+2023-05-22 15:36:20,336 - cobas6k - INFO - clean...
+2023-05-22 15:36:20,337 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:20,339 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:20,340 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:36:31,942 - run_driver - INFO - Starting program.
+2023-05-22 15:36:31,943 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:36:31,944 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:36:31,945 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:36:31,945 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:36:31,946 - run_driver - INFO - trying to run driver...
+2023-05-22 15:36:31,946 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:36:31,947 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:36:31,947 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:36:31,948 - run_driver - INFO - Run driver..
+2023-05-22 15:36:31,948 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:36:31,949 - cobas6k - INFO - Ready.
+2023-05-22 15:36:36,272 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:36:36,273 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:37,141 - cobas6k - INFO - message []
+2023-05-22 15:36:37,174 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:36:37,176 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:37,192 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:36:37,274 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:36:37,275 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:37,300 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:37,347 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:36:37,348 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:37,362 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:37,367 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:37,369 - cobas6k - INFO - clean ETB.
+2023-05-22 15:36:37,371 - cobas6k - INFO - clean...
+2023-05-22 15:36:37,372 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:37,375 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:37,377 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:36:37,380 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:36:47,345 - run_driver - INFO - Starting program.
+2023-05-22 15:36:47,346 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:36:47,346 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:36:47,348 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:36:47,348 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:36:47,349 - run_driver - INFO - trying to run driver...
+2023-05-22 15:36:47,350 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:36:47,351 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:36:47,352 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:36:47,353 - run_driver - INFO - Run driver..
+2023-05-22 15:36:47,353 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:36:47,355 - cobas6k - INFO - Ready.
+2023-05-22 15:36:52,225 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:36:52,226 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:52,993 - cobas6k - INFO - message []
+2023-05-22 15:36:52,999 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:36:53,000 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:53,019 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:36:53,045 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:36:53,047 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:53,065 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:53,070 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:36:53,075 - cobas6k - INFO - >>ACK
+2023-05-22 15:36:53,095 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:53,098 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:53,100 - cobas6k - INFO - clean ETB.
+2023-05-22 15:36:53,101 - cobas6k - INFO - clean...
+2023-05-22 15:36:53,107 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:53,108 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:36:53,109 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:36:53,111 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:37:13,504 - run_driver - INFO - Starting program.
+2023-05-22 15:37:13,505 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:37:13,506 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:37:13,506 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:37:13,507 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:37:13,507 - run_driver - INFO - trying to run driver...
+2023-05-22 15:37:13,508 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:37:13,509 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:37:13,509 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:37:13,510 - run_driver - INFO - Run driver..
+2023-05-22 15:37:13,511 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:37:13,512 - cobas6k - INFO - Ready.
+2023-05-22 15:37:17,838 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:37:17,838 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:18,821 - cobas6k - INFO - message []
+2023-05-22 15:37:18,826 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:37:18,838 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:18,865 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:37:18,909 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:37:18,910 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:18,921 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:18,952 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:37:18,953 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:18,967 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:18,970 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:18,971 - cobas6k - INFO - clean ETB.
+2023-05-22 15:37:18,972 - cobas6k - INFO - clean...
+2023-05-22 15:37:18,973 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:18,974 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:18,977 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:37:18,977 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:37:18,979 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:37:27,496 - run_driver - INFO - Starting program.
+2023-05-22 15:37:27,498 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:37:27,498 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:37:27,499 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:37:27,500 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:37:27,500 - run_driver - INFO - trying to run driver...
+2023-05-22 15:37:27,501 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:37:27,502 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:37:27,502 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:37:27,503 - run_driver - INFO - Run driver..
+2023-05-22 15:37:27,503 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:37:27,504 - cobas6k - INFO - Ready.
+2023-05-22 15:37:33,093 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:37:33,094 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:33,112 - cobas6k - INFO - message []
+2023-05-22 15:37:33,151 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:37:33,155 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:33,174 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:37:33,198 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:37:33,199 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:33,220 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:33,244 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:37:33,247 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:33,267 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:33,272 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:33,273 - cobas6k - INFO - clean ETB.
+2023-05-22 15:37:33,274 - cobas6k - INFO - clean...
+2023-05-22 15:37:33,275 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:33,277 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:33,279 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:37:33,280 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:37:33,282 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:37:48,971 - run_driver - INFO - Starting program.
+2023-05-22 15:37:48,972 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:37:48,974 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:37:48,974 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:37:48,975 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:37:48,975 - run_driver - INFO - trying to run driver...
+2023-05-22 15:37:48,976 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:37:48,977 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:37:48,977 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:37:48,978 - run_driver - INFO - Run driver..
+2023-05-22 15:37:48,978 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:37:48,979 - cobas6k - INFO - Ready.
+2023-05-22 15:37:53,524 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:37:53,524 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:54,821 - cobas6k - INFO - message []
+2023-05-22 15:37:54,855 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:37:54,858 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:54,948 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:37:55,032 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:37:55,034 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:55,067 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:55,139 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:37:55,141 - cobas6k - INFO - >>ACK
+2023-05-22 15:37:55,154 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:55,158 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:55,167 - cobas6k - INFO - clean ETB.
+2023-05-22 15:37:55,168 - cobas6k - INFO - clean...
+2023-05-22 15:37:55,169 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:55,172 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:37:55,176 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:37:55,178 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:37:55,181 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:04,066 - run_driver - INFO - Starting program.
+2023-05-22 15:38:04,067 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:38:04,067 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:38:04,068 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:38:04,068 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:38:04,069 - run_driver - INFO - trying to run driver...
+2023-05-22 15:38:04,069 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:38:04,070 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:38:04,070 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:38:04,071 - run_driver - INFO - Run driver..
+2023-05-22 15:38:04,071 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:38:04,073 - cobas6k - INFO - Ready.
+2023-05-22 15:38:08,351 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:38:09,335 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:09,389 - cobas6k - INFO - message []
+2023-05-22 15:38:09,421 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:38:09,428 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:09,457 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:38:09,462 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:38:09,463 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:09,498 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:09,506 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:38:09,512 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:09,537 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:09,547 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:09,557 - cobas6k - INFO - clean ETB.
+2023-05-22 15:38:09,558 - cobas6k - INFO - clean...
+2023-05-22 15:38:09,559 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:09,562 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:09,569 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:38:09,572 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:09,574 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:22,110 - run_driver - INFO - Starting program.
+2023-05-22 15:38:22,111 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:38:22,112 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:38:22,112 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:38:22,113 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:38:22,113 - run_driver - INFO - trying to run driver...
+2023-05-22 15:38:22,114 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:38:22,115 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:38:22,116 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:38:22,116 - run_driver - INFO - Run driver..
+2023-05-22 15:38:22,117 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:38:22,119 - cobas6k - INFO - Ready.
+2023-05-22 15:38:26,766 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:38:26,766 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:27,693 - cobas6k - INFO - message []
+2023-05-22 15:38:27,786 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:38:27,789 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:27,809 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:38:27,840 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:38:27,842 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:27,866 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:27,869 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:38:27,870 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:27,881 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:27,883 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:27,885 - cobas6k - INFO - clean ETB.
+2023-05-22 15:38:27,886 - cobas6k - INFO - clean...
+2023-05-22 15:38:27,887 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:27,889 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:27,892 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:38:27,893 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:27,896 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:37,160 - run_driver - INFO - Starting program.
+2023-05-22 15:38:37,161 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:38:37,161 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:38:37,162 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:38:37,163 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:38:37,163 - run_driver - INFO - trying to run driver...
+2023-05-22 15:38:37,164 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:38:37,164 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:38:37,165 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:38:37,166 - run_driver - INFO - Run driver..
+2023-05-22 15:38:37,166 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:38:37,167 - cobas6k - INFO - Ready.
+2023-05-22 15:38:42,173 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:38:42,178 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:42,212 - cobas6k - INFO - message []
+2023-05-22 15:38:42,229 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:38:42,231 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:42,248 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:38:42,296 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:38:42,298 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:42,326 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:42,339 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:38:42,343 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:42,364 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:42,369 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:42,378 - cobas6k - INFO - clean ETB.
+2023-05-22 15:38:42,381 - cobas6k - INFO - clean...
+2023-05-22 15:38:42,384 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:42,392 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:42,394 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:38:42,396 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:42,399 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:50,906 - run_driver - INFO - Starting program.
+2023-05-22 15:38:50,911 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:38:50,921 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:38:50,924 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:38:50,925 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:38:50,927 - run_driver - INFO - trying to run driver...
+2023-05-22 15:38:50,927 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:38:50,931 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:38:50,933 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:38:50,936 - run_driver - INFO - Run driver..
+2023-05-22 15:38:50,939 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:38:50,986 - cobas6k - INFO - Ready.
+2023-05-22 15:38:55,505 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:38:55,505 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:56,775 - cobas6k - INFO - message []
+2023-05-22 15:38:56,779 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:38:56,783 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:56,844 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:38:56,862 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:38:56,863 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:56,886 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:56,933 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:38:56,943 - cobas6k - INFO - >>ACK
+2023-05-22 15:38:56,977 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:56,979 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:56,980 - cobas6k - INFO - clean ETB.
+2023-05-22 15:38:56,981 - cobas6k - INFO - clean...
+2023-05-22 15:38:56,982 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:56,987 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:38:56,989 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:38:56,991 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:38:56,995 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:39:10,650 - run_driver - INFO - Starting program.
+2023-05-22 15:39:10,650 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:39:10,651 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:39:10,651 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:39:10,652 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:39:10,652 - run_driver - INFO - trying to run driver...
+2023-05-22 15:39:10,654 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:39:10,654 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:39:10,654 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:39:10,655 - run_driver - INFO - Run driver..
+2023-05-22 15:39:10,655 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:39:10,692 - cobas6k - INFO - Ready.
+2023-05-22 15:39:16,268 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:39:16,278 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:16,298 - cobas6k - INFO - message []
+2023-05-22 15:39:16,299 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:39:16,302 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:16,330 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:39:16,343 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:39:16,344 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:16,361 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:16,375 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:39:16,377 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:16,392 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:16,394 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:16,395 - cobas6k - INFO - clean ETB.
+2023-05-22 15:39:16,396 - cobas6k - INFO - clean...
+2023-05-22 15:39:16,396 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:16,397 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:16,399 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:39:16,400 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:39:16,401 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:39:27,873 - run_driver - INFO - Starting program.
+2023-05-22 15:39:27,874 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:39:27,874 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:39:27,874 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:39:27,875 - run_driver - INFO - SERVER SIMDONDAR:192.168.0.100
+2023-05-22 15:39:27,876 - run_driver - INFO - trying to run driver...
+2023-05-22 15:39:27,877 - cobas6k - INFO - Setup SIMDONDAR ke:192.168.0.100
+2023-05-22 15:39:27,877 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:39:27,879 - cobas6k - INFO - MySQL server [192.168.0.100]
+2023-05-22 15:39:27,900 - run_driver - INFO - Run driver..
+2023-05-22 15:39:27,906 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:39:27,911 - cobas6k - INFO - Ready.
+2023-05-22 15:39:33,355 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:39:33,357 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:33,370 - cobas6k - INFO - message []
+2023-05-22 15:39:33,432 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:39:33,433 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:33,447 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:39:33,472 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:39:33,472 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:33,496 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:33,519 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:39:33,520 - cobas6k - INFO - >>ACK
+2023-05-22 15:39:33,540 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:33,543 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:33,545 - cobas6k - INFO - clean ETB.
+2023-05-22 15:39:33,546 - cobas6k - INFO - clean...
+2023-05-22 15:39:33,547 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:33,549 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:39:33,551 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:39:33,552 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:39:33,554 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:39:33,555 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:39:33,558 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:39:33,657 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:39:33,794 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:39:33,796 - cobas6k - INFO - => Header message
+2023-05-22 15:39:33,797 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:39:33,797 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:39:33,798 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:39:33,802 - cobas6k - INFO - => Patient message
+2023-05-22 15:39:33,802 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:39:33,805 - cobas6k - INFO - => Order message
+2023-05-22 15:39:33,806 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:39:33,807 - cobas6k - INFO - => Comment message
+2023-05-22 15:39:33,808 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:39:33,808 - cobas6k - INFO - Unkown message.
+2023-05-22 15:39:33,809 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:39:33,809 - cobas6k - INFO - => Test result message
+2023-05-22 15:39:33,810 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:39:33,811 - cobas6k - INFO - getting test description..
+2023-05-22 15:39:33,813 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:39:33,815 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:39:33,815 - cobas6k - INFO - IP MySQL [192.168.0.100]
+2023-05-22 15:39:55,005 - cobas6k - ERROR - (2003, "Can't connect to MySQL server on '192.168.0.100' (10060)")
+2023-05-22 15:40:19,815 - run_driver - INFO - Starting program.
+2023-05-22 15:40:19,816 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:40:19,816 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:40:19,817 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:40:19,817 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-22 15:40:19,818 - run_driver - INFO - trying to run driver...
+2023-05-22 15:40:19,818 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-22 15:40:19,819 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:40:19,819 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-22 15:40:19,819 - run_driver - INFO - Run driver..
+2023-05-22 15:40:19,820 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:40:19,821 - cobas6k - INFO - Ready.
+2023-05-22 15:40:25,449 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:40:25,450 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:25,468 - cobas6k - INFO - message []
+2023-05-22 15:40:25,644 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:40:25,645 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:25,671 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:40:25,698 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:40:25,724 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:25,752 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:25,799 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:40:25,813 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:25,864 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:25,868 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:25,877 - cobas6k - INFO - clean ETB.
+2023-05-22 15:40:25,878 - cobas6k - INFO - clean...
+2023-05-22 15:40:25,880 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:25,886 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:25,892 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:40:25,933 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:40:25,941 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:40:25,944 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:40:25,947 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:40:25,951 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:40:26,033 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:40:26,041 - cobas6k - INFO - => Header message
+2023-05-22 15:40:26,045 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:40:26,049 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:40:26,053 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:40:26,056 - cobas6k - INFO - => Patient message
+2023-05-22 15:40:26,057 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:40:26,059 - cobas6k - INFO - => Order message
+2023-05-22 15:40:26,060 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:40:26,061 - cobas6k - INFO - => Comment message
+2023-05-22 15:40:26,063 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:40:26,065 - cobas6k - INFO - Unkown message.
+2023-05-22 15:40:26,072 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:40:26,076 - cobas6k - INFO - => Test result message
+2023-05-22 15:40:26,079 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:40:26,080 - cobas6k - INFO - getting test description..
+2023-05-22 15:40:26,084 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:40:26,092 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:40:26,096 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:40:26,587 - cobas6k - ERROR - (1045, "Access denied for user '6000cobas'@'localhost' (using password: YES)")
+2023-05-22 15:40:43,096 - run_driver - INFO - Starting program.
+2023-05-22 15:40:43,097 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:40:43,098 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:40:43,099 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:40:43,099 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-22 15:40:43,100 - run_driver - INFO - trying to run driver...
+2023-05-22 15:40:43,100 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-22 15:40:43,101 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:40:43,101 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-22 15:40:43,102 - run_driver - INFO - Run driver..
+2023-05-22 15:40:43,102 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:40:43,103 - cobas6k - INFO - Ready.
+2023-05-22 15:40:48,298 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:40:48,300 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:48,329 - cobas6k - INFO - message []
+2023-05-22 15:40:48,370 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:40:48,376 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:48,387 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:40:48,415 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:40:48,416 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:48,438 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:48,440 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:40:48,441 - cobas6k - INFO - >>ACK
+2023-05-22 15:40:48,466 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:48,471 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:48,474 - cobas6k - INFO - clean ETB.
+2023-05-22 15:40:48,475 - cobas6k - INFO - clean...
+2023-05-22 15:40:48,476 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:48,478 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:40:48,480 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:40:48,492 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:40:48,502 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:40:48,512 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:40:48,519 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:40:48,521 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:40:48,595 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:40:48,596 - cobas6k - INFO - => Header message
+2023-05-22 15:40:48,596 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:40:48,597 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:40:48,597 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:40:48,598 - cobas6k - INFO - => Patient message
+2023-05-22 15:40:48,599 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:40:48,600 - cobas6k - INFO - => Order message
+2023-05-22 15:40:48,601 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:40:48,601 - cobas6k - INFO - => Comment message
+2023-05-22 15:40:48,602 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:40:48,603 - cobas6k - INFO - Unkown message.
+2023-05-22 15:40:48,613 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:40:48,625 - cobas6k - INFO - => Test result message
+2023-05-22 15:40:48,631 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:40:48,634 - cobas6k - INFO - getting test description..
+2023-05-22 15:40:48,642 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:40:48,645 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:40:48,647 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:40:49,012 - cobas6k - ERROR - (1364, "Field 'lot_reag' doesn't have a default value")
+2023-05-22 15:40:49,014 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:40:49,018 - cobas6k - INFO - => Comment message
+2023-05-22 15:40:49,018 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:40:49,019 - cobas6k - INFO - => Terminate message
+2023-05-22 15:40:49,019 - cobas6k - INFO - ['1']
+2023-05-22 15:40:49,020 - cobas6k - INFO - Unkown message.
+2023-05-22 15:42:12,053 - run_driver - INFO - Starting program.
+2023-05-22 15:42:12,054 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:42:12,054 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:42:12,054 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:42:12,055 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-22 15:42:12,055 - run_driver - INFO - trying to run driver...
+2023-05-22 15:42:12,055 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-22 15:42:12,055 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:42:12,056 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-22 15:42:12,056 - run_driver - INFO - Run driver..
+2023-05-22 15:42:12,056 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:42:12,059 - cobas6k - INFO - Ready.
+2023-05-22 15:42:15,577 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:42:15,578 - cobas6k - INFO - >>ACK
+2023-05-22 15:42:15,602 - cobas6k - INFO - message []
+2023-05-22 15:42:15,604 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:42:15,604 - cobas6k - INFO - >>ACK
+2023-05-22 15:42:15,617 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:42:15,629 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:42:15,630 - cobas6k - INFO - >>ACK
+2023-05-22 15:42:15,649 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:42:15,657 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:42:15,658 - cobas6k - INFO - >>ACK
+2023-05-22 15:42:15,680 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:42:15,684 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:42:15,685 - cobas6k - INFO - clean ETB.
+2023-05-22 15:42:15,686 - cobas6k - INFO - clean...
+2023-05-22 15:42:15,687 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:42:15,688 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:42:15,689 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:42:15,690 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:42:15,691 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:42:15,692 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:42:15,695 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:42:15,697 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:42:15,737 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:42:15,740 - cobas6k - INFO - => Header message
+2023-05-22 15:42:15,740 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:42:15,741 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:42:15,741 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:42:15,742 - cobas6k - INFO - => Patient message
+2023-05-22 15:42:15,743 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:42:15,744 - cobas6k - INFO - => Order message
+2023-05-22 15:42:15,744 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:42:15,745 - cobas6k - INFO - => Comment message
+2023-05-22 15:42:15,745 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:42:15,745 - cobas6k - INFO - Unkown message.
+2023-05-22 15:42:15,746 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:42:15,749 - cobas6k - INFO - => Test result message
+2023-05-22 15:42:15,750 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:42:15,750 - cobas6k - INFO - getting test description..
+2023-05-22 15:42:15,752 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:42:15,754 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:42:15,754 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:42:15,755 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:42:15,969 - cobas6k - ERROR - (1364, "Field 'lot_reag' doesn't have a default value")
+2023-05-22 15:42:15,970 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:42:15,971 - cobas6k - INFO - => Comment message
+2023-05-22 15:42:15,971 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:42:15,973 - cobas6k - INFO - => Terminate message
+2023-05-22 15:42:15,973 - cobas6k - INFO - ['1']
+2023-05-22 15:42:15,973 - cobas6k - INFO - Unkown message.
+2023-05-22 15:43:55,872 - run_driver - INFO - Starting program.
+2023-05-22 15:43:55,872 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:43:55,872 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:43:55,873 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:43:55,873 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-22 15:43:55,873 - run_driver - INFO - trying to run driver...
+2023-05-22 15:43:55,874 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-22 15:43:55,874 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:43:55,874 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-22 15:43:55,875 - run_driver - INFO - Run driver..
+2023-05-22 15:43:55,875 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:43:56,880 - cobas6k - INFO - Ready.
+2023-05-22 15:44:02,969 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:44:02,970 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:04,071 - cobas6k - INFO - message []
+2023-05-22 15:44:04,135 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:44:04,139 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:04,165 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:44:04,168 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:44:04,168 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:04,196 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:04,200 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:44:04,201 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:04,226 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:04,232 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:04,234 - cobas6k - INFO - clean ETB.
+2023-05-22 15:44:04,234 - cobas6k - INFO - clean...
+2023-05-22 15:44:04,235 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:04,236 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:04,238 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:44:04,239 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:44:04,240 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:44:04,241 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:44:04,243 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:44:04,247 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:44:04,287 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:44:04,291 - cobas6k - INFO - => Header message
+2023-05-22 15:44:04,291 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:44:04,292 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:44:04,292 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:44:04,292 - cobas6k - INFO - => Patient message
+2023-05-22 15:44:04,293 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:44:04,294 - cobas6k - INFO - => Order message
+2023-05-22 15:44:04,295 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:44:04,295 - cobas6k - INFO - => Comment message
+2023-05-22 15:44:04,296 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:44:04,296 - cobas6k - INFO - Unkown message.
+2023-05-22 15:44:04,297 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:44:04,297 - cobas6k - INFO - => Test result message
+2023-05-22 15:44:04,298 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:44:04,298 - cobas6k - INFO - getting test description..
+2023-05-22 15:44:04,301 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:44:04,302 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:44:04,303 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:44:04,303 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:44:04,537 - cobas6k - ERROR - (1364, "Field 'lot_reag' doesn't have a default value")
+2023-05-22 15:44:04,539 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:44:04,544 - cobas6k - INFO - => Comment message
+2023-05-22 15:44:04,545 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:44:04,548 - cobas6k - INFO - => Terminate message
+2023-05-22 15:44:04,549 - cobas6k - INFO - ['1']
+2023-05-22 15:44:04,551 - cobas6k - INFO - Unkown message.
+2023-05-22 15:44:40,792 - run_driver - INFO - Starting program.
+2023-05-22 15:44:40,792 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:44:40,792 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:44:40,794 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:44:40,794 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-22 15:44:40,794 - run_driver - INFO - trying to run driver...
+2023-05-22 15:44:40,795 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-22 15:44:40,795 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:44:40,795 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-22 15:44:40,795 - run_driver - INFO - Run driver..
+2023-05-22 15:44:40,795 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:44:40,796 - cobas6k - INFO - Ready.
+2023-05-22 15:44:44,309 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:44:44,310 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:44,329 - cobas6k - INFO - message []
+2023-05-22 15:44:44,360 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:44:44,361 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:44,376 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:44:44,404 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:44:44,404 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:44,423 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:44,452 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:44:44,452 - cobas6k - INFO - >>ACK
+2023-05-22 15:44:44,474 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:44,476 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:44,478 - cobas6k - INFO - clean ETB.
+2023-05-22 15:44:44,478 - cobas6k - INFO - clean...
+2023-05-22 15:44:44,478 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:44,479 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:44:44,481 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:44:44,482 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:44:44,483 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:44:44,494 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:44:44,509 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:44:44,512 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:44:44,560 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:44:44,561 - cobas6k - INFO - => Header message
+2023-05-22 15:44:44,562 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:44:44,569 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:44:44,573 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:44:44,583 - cobas6k - INFO - => Patient message
+2023-05-22 15:44:44,585 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:44:44,587 - cobas6k - INFO - => Order message
+2023-05-22 15:44:44,589 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:44:44,589 - cobas6k - INFO - => Comment message
+2023-05-22 15:44:44,589 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:44:44,590 - cobas6k - INFO - Unkown message.
+2023-05-22 15:44:44,592 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:44:44,593 - cobas6k - INFO - => Test result message
+2023-05-22 15:44:44,595 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:44:44,596 - cobas6k - INFO - getting test description..
+2023-05-22 15:44:44,597 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:44:44,598 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:44:44,599 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:44:44,599 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:44:44,814 - cobas6k - ERROR - (1364, "Field 'lot_reag' doesn't have a default value")
+2023-05-22 15:44:44,815 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:44:44,815 - cobas6k - INFO - => Comment message
+2023-05-22 15:44:44,816 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:44:44,816 - cobas6k - INFO - => Terminate message
+2023-05-22 15:44:44,817 - cobas6k - INFO - ['1']
+2023-05-22 15:44:44,818 - cobas6k - INFO - Unkown message.
+2023-05-22 15:45:43,922 - run_driver - INFO - Starting program.
+2023-05-22 15:45:43,923 - run_driver - INFO - VERSION [0.0.2]
+2023-05-22 15:45:43,924 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-22 15:45:43,924 - run_driver - INFO - TCP_PORT:5000
+2023-05-22 15:45:43,926 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-22 15:45:43,926 - run_driver - INFO - trying to run driver...
+2023-05-22 15:45:43,926 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-22 15:45:43,926 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-22 15:45:43,927 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-22 15:45:43,927 - run_driver - INFO - Run driver..
+2023-05-22 15:45:43,927 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-22 15:45:43,929 - cobas6k - INFO - Ready.
+2023-05-22 15:45:49,186 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:45:49,186 - cobas6k - INFO - >>ACK
+2023-05-22 15:45:49,204 - cobas6k - INFO - message []
+2023-05-22 15:45:49,232 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:45:49,233 - cobas6k - INFO - >>ACK
+2023-05-22 15:45:50,634 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:45:50,711 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:45:50,712 - cobas6k - INFO - >>ACK
+2023-05-22 15:45:50,740 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:45:50,748 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:45:50,748 - cobas6k - INFO - >>ACK
+2023-05-22 15:45:50,775 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:45:50,787 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:45:50,790 - cobas6k - INFO - clean ETB.
+2023-05-22 15:45:50,790 - cobas6k - INFO - clean...
+2023-05-22 15:45:50,792 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:45:50,794 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:45:50,801 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:45:50,803 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:45:50,805 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:45:50,822 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:45:50,844 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:45:50,850 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:45:50,917 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:45:50,919 - cobas6k - INFO - => Header message
+2023-05-22 15:45:50,926 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:45:50,927 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:45:50,929 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:45:50,931 - cobas6k - INFO - => Patient message
+2023-05-22 15:45:50,969 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:45:50,977 - cobas6k - INFO - => Order message
+2023-05-22 15:45:50,983 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:45:50,985 - cobas6k - INFO - => Comment message
+2023-05-22 15:45:50,985 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:45:50,987 - cobas6k - INFO - Unkown message.
+2023-05-22 15:45:50,994 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:45:50,999 - cobas6k - INFO - => Test result message
+2023-05-22 15:45:51,003 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:45:51,006 - cobas6k - INFO - getting test description..
+2023-05-22 15:45:51,014 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:45:51,018 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:45:51,021 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:45:51,024 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:45:51,411 - cobas6k - ERROR - (1364, "Field 'flag' doesn't have a default value")
+2023-05-22 15:45:51,412 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:45:51,413 - cobas6k - INFO - => Comment message
+2023-05-22 15:45:51,413 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:45:51,414 - cobas6k - INFO - => Terminate message
+2023-05-22 15:45:51,415 - cobas6k - INFO - ['1']
+2023-05-22 15:45:51,422 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:09,159 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:46:09,159 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:10,536 - cobas6k - INFO - message []
+2023-05-22 15:46:10,699 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:46:10,744 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:10,806 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:46:10,838 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:46:10,840 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:10,897 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:10,932 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:46:10,957 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:10,986 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:10,996 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:11,008 - cobas6k - INFO - clean ETB.
+2023-05-22 15:46:11,015 - cobas6k - INFO - clean...
+2023-05-22 15:46:11,033 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:11,037 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:11,043 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:46:11,045 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:11,049 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:11,051 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:11,054 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:11,056 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:46:11,111 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:46:11,112 - cobas6k - INFO - => Header message
+2023-05-22 15:46:11,113 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:46:11,114 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:46:11,116 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:46:11,119 - cobas6k - INFO - => Patient message
+2023-05-22 15:46:11,121 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:46:11,123 - cobas6k - INFO - => Order message
+2023-05-22 15:46:11,125 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:46:11,126 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:11,127 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:46:11,128 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:11,130 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:46:11,130 - cobas6k - INFO - => Test result message
+2023-05-22 15:46:11,131 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:46:11,132 - cobas6k - INFO - getting test description..
+2023-05-22 15:46:11,149 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:46:11,161 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:46:11,171 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:46:11,173 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:46:11,380 - cobas6k - ERROR - (1364, "Field 'comment' doesn't have a default value")
+2023-05-22 15:46:11,391 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:46:11,393 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:11,395 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:46:11,396 - cobas6k - INFO - => Terminate message
+2023-05-22 15:46:11,397 - cobas6k - INFO - ['1']
+2023-05-22 15:46:11,398 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:25,737 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:46:25,738 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:26,929 - cobas6k - INFO - message []
+2023-05-22 15:46:26,999 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:46:27,001 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:27,023 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:46:27,024 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:46:27,025 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:27,038 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:27,040 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:46:27,041 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:27,070 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:27,071 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:27,073 - cobas6k - INFO - clean ETB.
+2023-05-22 15:46:27,073 - cobas6k - INFO - clean...
+2023-05-22 15:46:27,074 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:27,075 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:27,078 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:46:27,078 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:27,080 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:27,081 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:27,083 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:27,084 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:46:27,155 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:46:27,157 - cobas6k - INFO - => Header message
+2023-05-22 15:46:27,157 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:46:27,160 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:46:27,162 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:46:27,163 - cobas6k - INFO - => Patient message
+2023-05-22 15:46:27,164 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:46:27,167 - cobas6k - INFO - => Order message
+2023-05-22 15:46:27,168 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:46:27,169 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:27,170 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:46:27,171 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:27,171 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:46:27,171 - cobas6k - INFO - => Test result message
+2023-05-22 15:46:27,173 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:46:27,174 - cobas6k - INFO - getting test description..
+2023-05-22 15:46:27,176 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:46:27,178 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:46:27,180 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:46:27,181 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:46:27,276 - cobas6k - ERROR - (1364, "Field 'user_confirm' doesn't have a default value")
+2023-05-22 15:46:27,277 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:46:27,278 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:27,279 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:46:27,279 - cobas6k - INFO - => Terminate message
+2023-05-22 15:46:27,280 - cobas6k - INFO - ['1']
+2023-05-22 15:46:27,280 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:40,873 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:46:40,880 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:42,061 - cobas6k - INFO - message []
+2023-05-22 15:46:42,106 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:46:42,112 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:42,138 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:46:42,140 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:46:42,142 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:42,169 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:42,171 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:46:42,171 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:42,185 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:42,192 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:42,194 - cobas6k - INFO - clean ETB.
+2023-05-22 15:46:42,195 - cobas6k - INFO - clean...
+2023-05-22 15:46:42,196 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:42,198 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:42,202 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:46:42,204 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:42,205 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:42,207 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:42,209 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:42,211 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:46:42,224 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:46:42,225 - cobas6k - INFO - => Header message
+2023-05-22 15:46:42,226 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:46:42,226 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:46:42,227 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:46:42,227 - cobas6k - INFO - => Patient message
+2023-05-22 15:46:42,228 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:46:42,228 - cobas6k - INFO - => Order message
+2023-05-22 15:46:42,228 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:46:42,229 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:42,229 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:46:42,230 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:42,230 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:46:42,231 - cobas6k - INFO - => Test result message
+2023-05-22 15:46:42,231 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:46:42,231 - cobas6k - INFO - getting test description..
+2023-05-22 15:46:42,233 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:46:42,234 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:46:42,234 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:46:42,235 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:46:42,345 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:46:42,345 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:42,346 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:46:42,347 - cobas6k - INFO - => Terminate message
+2023-05-22 15:46:42,347 - cobas6k - INFO - ['1']
+2023-05-22 15:46:42,348 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:56,286 - cobas6k - INFO - Data: [b'\x05']
+2023-05-22 15:46:56,286 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:56,313 - cobas6k - INFO - message []
+2023-05-22 15:46:56,335 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n']
+2023-05-22 15:46:56,336 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:56,359 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+]
+2023-05-22 15:46:56,360 - cobas6k - INFO - Data: [b'\x022               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\x0316\r\n']
+2023-05-22 15:46:56,361 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:56,376 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:56,378 - cobas6k - INFO - Data: [b'\x04']
+2023-05-22 15:46:56,379 - cobas6k - INFO - >>ACK
+2023-05-22 15:46:56,395 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:56,400 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:56,403 - cobas6k - INFO - clean ETB.
+2023-05-22 15:46:56,404 - cobas6k - INFO - clean...
+2023-05-22 15:46:56,404 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:56,407 - cobas6k - INFO - cleaned message is [1H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N16
+]
+2023-05-22 15:46:56,409 - cobas6k - INFO - cleaned message 2 is [H|\^&|||H7600^1|||||Host|RSUPL^REAL|P|1P|1||PatID|||||M||||||40^YO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||FC|1|I|Comm1                         ^Comm2                    ^Comm3AF
+2               ^Comm4          ^Comm5     |GR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11C|1|I|0|IL|1|N1]
+2023-05-22 15:46:56,411 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:56,412 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230522152608||||N||||1|||||||20230522152608|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3\x17AF\r\n2               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r1\r\x03'
+2023-05-22 15:46:56,414 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:56,415 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']], [['\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]]
+2023-05-22 15:46:56,417 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1'], ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']], ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F'], ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\\x17AF']], [['\\n2               ', 'Comm4          ', 'Comm5     '], 'G'], ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['1']]"]
+2023-05-22 15:46:56,474 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['RSUPL', 'REAL'], 'P', '1']
+2023-05-22 15:46:56,475 - cobas6k - INFO - => Header message
+2023-05-22 15:46:56,476 - cobas6k - INFO - ['RSUPL', 'REAL']
+2023-05-22 15:46:56,477 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-22 15:46:56,478 - cobas6k - INFO - ['P', '1', None, 'PatID', None, None, None, None, 'M', None, None, None, None, None, ['40', 'Y']]
+2023-05-22 15:46:56,479 - cobas6k - INFO - => Patient message
+2023-05-22 15:46:56,480 - cobas6k - INFO - ['O', '1', 'SampleID              ', ['1', '5200', '1', None, 'S1', 'SC'], [None, None, None, '111', '1'], 'R', None, '20230522152608', None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230522152608', None, None, 'F']
+2023-05-22 15:46:56,480 - cobas6k - INFO - => Order message
+2023-05-22 15:46:56,481 - cobas6k - INFO - ['C', '1', 'I', ['Comm1                         ', 'Comm2                    ', 'Comm3\x17AF']]
+2023-05-22 15:46:56,482 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:56,482 - cobas6k - INFO - [['\n2               ', 'Comm4          ', 'Comm5     '], 'G']
+2023-05-22 15:46:56,483 - cobas6k - INFO - Unkown message.
+2023-05-22 15:46:56,484 - cobas6k - INFO - ['R', '1', [None, None, None, '111/1/not'], '9.5', 'g/l', None, 'N', None, 'F', None, 'BMSERV', None, None, 'E11']
+2023-05-22 15:46:56,484 - cobas6k - INFO - => Test result message
+2023-05-22 15:46:56,485 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-22 15:46:56,486 - cobas6k - INFO - getting test description..
+2023-05-22 15:46:56,489 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-22 15:46:56,490 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-22 15:46:56,491 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-22 15:46:56,491 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('H7600.1','2023-05-22 15:26:08','SampleID','HIVCOMP','3','S','.','9','BMSERV') 
+2023-05-22 15:46:56,612 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-22 15:46:56,614 - cobas6k - INFO - => Comment message
+2023-05-22 15:46:56,614 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-22 15:46:56,614 - cobas6k - INFO - => Terminate message
+2023-05-22 15:46:56,615 - cobas6k - INFO - ['1']
+2023-05-22 15:46:56,615 - cobas6k - INFO - Unkown message.
