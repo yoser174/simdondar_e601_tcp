@@ -34,6 +34,7 @@
 # 2019-11-29    tambahkan table SAMPLE_SENT jika sudah sukses send ke alat maka tidak usah reply test lagi
 
 
+import configparser
 import serial
 import time
 import logging
@@ -44,7 +45,7 @@ import socket
 
 
 DRIVER_NAME = 'cobas6k'
-DRIVER_VERSION = '0.0.0.8'
+DRIVER_VERSION = '0.0.9'
 
 OUT_PATH = 'C:\\Dev\\Interfacee601\\out\\'
 
@@ -70,9 +71,16 @@ BUFFER_SIZE = 1024
 
 MY_DB = 'lis_pmi'
 MY_TABLE = 'cobas6000'
-MY_USER = 'cobas6000'
-MY_PASS = '6000cobas'
+MY_USER = 'xxxx'
+MY_PASS = 'xxxx'
 
+
+config = configparser.ConfigParser()
+config.read('run_driver.ini')
+MY_DB = config.get('General','MY_DB')
+MY_TABLE = config.get('General','MY_TABLE')
+MY_USER = config.get('General','MY_USER')
+MY_PASS = config.get('General','MY_PASS')
 
 class cobas6k(object):
 
