@@ -11,7 +11,7 @@ import os
 from cobas6k import cobas6k
 import logging.config
 import yaml
-import ConfigParser
+import configparser
 
 
 PORT_COM = 'COM0'
@@ -25,7 +25,7 @@ for quality improvemnet and bug hunting.
 Please read README.txt for licenses
 """
 
-config = ConfigParser.ConfigParser()
+config = configparser.ConfigParser()
 config.read('run_driver.ini')
 SERVER = config.get('General','server')
 TCP_HOST = config.get('General','tcp_host')

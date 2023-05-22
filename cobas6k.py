@@ -265,7 +265,7 @@ class cobas6k(object):
     def db_insert(self,sql,resdata):
         sid = resdata[0] or ''
         tesno = resdata[1] or ''
-        if sid<>'' and tesno<>'':
+        if sid!='' and tesno!='':
             logging.info('delete existing data (%s,%s)' % (sid,tesno))
             self.db_delexists(sid,tesno)
         
