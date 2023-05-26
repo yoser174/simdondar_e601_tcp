@@ -55,10 +55,11 @@ def main():
         #try:
         logging.info('trying to run driver...')
         con = cobas6k(tcp_host = TCP_HOST, tcp_port = TCP_PORT, server = SERVER, db_offline=DB_OFFLINE)
-        logging.info('Run driver..')
-        con.open()
-        #except Exception as e:
-        #    logging.error('Failed [%s]' % str(e))
+        logging.info('Try run driver..')
+        try:
+            con.open()
+        except Exception as e:
+           logging.error('Failed [%s]' % str(e))
 
 if __name__ == "__main__":
     with open('run_driver.yaml', 'rt') as f:

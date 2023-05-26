@@ -32,9 +32,11 @@
 # 2019-07-05    insert row data to logging and change connection to TCP
 # 2019-07-06    data parsing message berdasarkan struktur STX+data..+EOT atau data yang dikirim hanya EOT
 # 2019-11-29    tambahkan table SAMPLE_SENT jika sudah sukses send ke alat maka tidak usah reply test lagi
+# 2023-05-26    fix upgrade ke Python 3
 
 
 import configparser
+import sys
 # import serial
 import time
 import logging
@@ -45,7 +47,7 @@ import socket
 
 
 DRIVER_NAME = 'cobas6k'
-DRIVER_VERSION = '0.0.9'
+DRIVER_VERSION = '0.1.0'
 
 OUT_PATH = 'C:\\Dev\\Interfacee601\\out\\'
 
@@ -74,6 +76,7 @@ MY_TABLE = 'cobas6000'
 MY_USER = 'xxxx'
 MY_PASS = 'xxxx'
 
+DB_OFFLINE = False
 
 config = configparser.ConfigParser()
 config.read('run_driver.ini')
@@ -81,9 +84,14 @@ MY_DB = config.get('General','MY_DB')
 MY_TABLE = config.get('General','MY_TABLE')
 MY_USER = config.get('General','MY_USER')
 MY_PASS = config.get('General','MY_PASS')
+DB_OFFLINE = config.get('General','DB_OFFLINE')
+
+if DB_OFFLINE == 'True':
+    DB_OFFLINE = True
+else:
+    DB_OFFLINE = False
 
 class cobas6k(object):
-
     def __init__(self,tcp_host = '127.0.0.1', tcp_port = '5000',server='127.0.0.1',db_offline=True,baudrate=9600,timeout=10):
         self.message=''
         self.my_server = server
@@ -310,8 +318,12 @@ class cobas6k(object):
 
     def get_testdesc(self,testno):
         logging.info('getting test description..')
-        tesdesc = self.db_query("SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '"+testno+"' ")
-        return str(tesdesc[0][0])
+        try:
+            tesdesc = self.db_query("SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '"+testno+"' ")
+            return str(tesdesc[0][0])
+        except Exception as e:
+            logging.error('Gagal dapat test code [%s] cek cobas6k.db edit table `ALL_SET_TEST` sesuaikan dengan HOST_CODE alat dari System > Utilities > test code. ' % testno)
+            sys.exit(1)
 
 
     def save_raw(self,direction,msg):
@@ -412,7 +424,8 @@ L|1|N
             ts_reply += 'C|1|L|'+str(comm1)+'^'+str(comm2)+'^'+str(comm3)+'^'+str(comm4)+'^'+str(comm5)+'|G\r'
             ts_reply +='L|1|N'
             logging.info('TS REPLY:%s' % ts_reply)
-            self.save_raw('OUT',ts_reply)
+            if DB_OFFLINE:
+                self.save_raw('OUT',ts_reply)
             self.send_enq()
             data = self.listen()
             if data==ACK:
@@ -436,7 +449,8 @@ L|1|N
 
 
     def handlemsg(self,msg):
-        self.save_raw('IN',str(msg))
+        if DB_OFFLINE:
+            self.save_raw('IN',str(msg))
         o_sid = '' # sample ID
         o_time = '' # specimen colection date\time
         r_testno = '' # test No
@@ -542,6 +556,10 @@ L|1|N
                 else:
                     o_sampletype = o_sampletype
 
+                # delete dulu 
+                sql = "DELETE FROM cobas6000 WHERE instrument_name = '"+str(h_instname)+"' AND sample_id = '"+str(o_sid)+"' AND parameter_name = '"+str(parname)+"' AND parameter_no ='"+str(par_no)+"' AND sample_type = '"+str(o_sampletype)+"' "
+                self.my_insert(sql)
+                # insert kemudian
                 sql = "INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('"+str(h_instname)+"','"+str(o_reslastmoddate)+"','"+str(o_sid)+"','"+str(parname)+"','"+str(par_no)+"','"+str(o_sampletype)+"','"+str(res_num)+"','"+str(r_result[0])+"','"+str(r_operator)+"') "
                 self.my_insert(sql)
                 
@@ -558,7 +576,7 @@ L|1|N
         a = 1
         while a > 0:
             try:
-                a = s.find(ETB)
+                a = s.find(ETB.decode(ENCODING))
                 logging.info('got rec [%s]' % a)
                 t =  s[a:a+6]
                 logging.info(t)
@@ -605,9 +623,9 @@ L|1|N
                             # clean ETB
                             logging.info('clean ETB.')
                             msg = self.clean_msg(msg)
-                            logging.info('cleaned message is [%s]' % str(msg))
-                            msg = msg[1:-3]
-                            logging.info('cleaned message 2 is [%s]' % str(msg))
+                            logging.info('cleaned message ETB is [%s]' % str(msg))
+                            msg = msg[1:-4]
+                            logging.info('cleaned message final is [%s]' % str(msg))
                             msg = self.decode('1'+str(msg)+CR.decode(ENCODING)+ETX.decode(ENCODING))
                             logging.info('decoded to [%s]' % str(msg))
                             self.handlemsg(msg)

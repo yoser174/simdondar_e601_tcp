@@ -1372,3 +1372,1158 @@
 2023-05-22 15:46:56,614 - cobas6k - INFO - => Terminate message
 2023-05-22 15:46:56,615 - cobas6k - INFO - ['1']
 2023-05-22 15:46:56,615 - cobas6k - INFO - Unkown message.
+2023-05-24 08:53:33,793 - run_driver - INFO - Starting program.
+2023-05-24 08:53:34,093 - run_driver - INFO - VERSION [0.0.2]
+2023-05-24 08:53:34,109 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-24 08:53:34,111 - run_driver - INFO - TCP_PORT:5000
+2023-05-24 08:53:34,302 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-24 08:53:34,322 - run_driver - INFO - trying to run driver...
+2023-05-24 08:53:34,397 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-24 08:53:34,418 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-24 08:53:34,475 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-24 08:53:34,481 - run_driver - INFO - Run driver..
+2023-05-24 08:53:34,485 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 08:53:41,940 - run_driver - INFO - Starting program.
+2023-05-24 08:53:41,942 - run_driver - INFO - VERSION [0.0.2]
+2023-05-24 08:53:41,945 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-24 08:53:41,946 - run_driver - INFO - TCP_PORT:5000
+2023-05-24 08:53:41,948 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-24 08:53:41,955 - run_driver - INFO - trying to run driver...
+2023-05-24 08:53:41,955 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-24 08:53:41,959 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-24 08:53:41,960 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-24 08:53:41,961 - run_driver - INFO - Run driver..
+2023-05-24 08:53:41,962 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 08:53:41,967 - cobas6k - INFO - Ready.
+2023-05-24 08:53:49,488 - cobas6k - INFO - Data: [b'\x05']
+2023-05-24 08:53:49,494 - cobas6k - INFO - >>ACK
+2023-05-24 08:53:49,513 - cobas6k - INFO - message []
+2023-05-24 08:53:49,728 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-24 08:53:49,734 - cobas6k - INFO - >>ACK
+2023-05-24 08:53:49,759 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-24 08:53:49,813 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-24 08:53:49,815 - cobas6k - INFO - >>ACK
+2023-05-24 08:53:49,836 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-24 08:53:49,840 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-24 08:53:49,841 - cobas6k - INFO - >>ACK
+2023-05-24 08:53:49,867 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:53:49,900 - cobas6k - INFO - Data: [b'\x04']
+2023-05-24 08:53:49,901 - cobas6k - INFO - >>ACK
+2023-05-24 08:53:49,916 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:53:49,920 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:53:49,923 - cobas6k - INFO - clean ETB.
+2023-05-24 08:53:49,924 - cobas6k - INFO - clean...
+2023-05-24 08:53:49,924 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:53:49,927 - cobas6k - INFO - cleaned message is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:53:49,930 - cobas6k - INFO - cleaned message 2 is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N2]
+2023-05-24 08:53:49,932 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-24 08:53:49,935 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-24 08:53:49,938 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-24 08:53:49,943 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-24 08:53:49,996 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\\x1738']], ['\\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\\x17EB'], ['\\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]"]
+2023-05-24 08:53:50,014 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-24 08:53:50,014 - cobas6k - INFO - => Header message
+2023-05-24 08:53:50,015 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-24 08:53:50,026 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-24 08:53:50,052 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-24 08:53:50,059 - cobas6k - INFO - => Patient message
+2023-05-24 08:53:50,070 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-24 08:53:50,074 - cobas6k - INFO - => Order message
+2023-05-24 08:53:50,082 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-24 08:53:50,083 - cobas6k - INFO - => Comment message
+2023-05-24 08:53:50,084 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]
+2023-05-24 08:53:50,085 - cobas6k - INFO - => Test result message
+2023-05-24 08:53:50,086 - cobas6k - ERROR - Failed parsing O segment [['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]][list index out of range]
+2023-05-24 08:53:50,088 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 08:53:50,088 - cobas6k - INFO - getting test description..
+2023-05-24 08:53:50,090 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-24 08:53:50,092 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-24 08:53:50,093 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 08:53:50,094 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','38','-1','') 
+2023-05-24 08:53:50,614 - cobas6k - INFO - ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-24 08:53:50,616 - cobas6k - INFO - Unkown message.
+2023-05-24 08:53:50,616 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 08:53:50,617 - cobas6k - INFO - => Comment message
+2023-05-24 08:53:50,618 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-24 08:53:50,618 - cobas6k - INFO - => Test result message
+2023-05-24 08:53:50,619 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 08:53:50,620 - cobas6k - INFO - getting test description..
+2023-05-24 08:53:50,625 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-24 08:53:50,627 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-24 08:53:50,628 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 08:53:50,629 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-24 08:53:51,413 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 08:53:51,414 - cobas6k - INFO - => Comment message
+2023-05-24 08:53:51,414 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-24 08:53:51,416 - cobas6k - INFO - => Test result message
+2023-05-24 08:53:51,416 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 08:53:51,417 - cobas6k - INFO - getting test description..
+2023-05-24 08:53:51,418 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-24 08:53:51,420 - cobas6k - INFO - Return = []
+2023-05-24 08:56:52,942 - run_driver - INFO - Starting program.
+2023-05-24 08:56:52,945 - run_driver - INFO - VERSION [0.0.2]
+2023-05-24 08:56:52,945 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-24 08:56:52,946 - run_driver - INFO - TCP_PORT:5000
+2023-05-24 08:56:52,947 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-24 08:56:52,948 - run_driver - INFO - trying to run driver...
+2023-05-24 08:56:52,948 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-24 08:56:52,949 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-24 08:56:52,949 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-24 08:56:52,950 - run_driver - INFO - Run driver..
+2023-05-24 08:56:52,951 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 08:56:52,952 - cobas6k - INFO - Ready.
+2023-05-24 08:58:39,082 - run_driver - INFO - Starting program.
+2023-05-24 08:58:39,083 - run_driver - INFO - VERSION [0.0.2]
+2023-05-24 08:58:39,084 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-24 08:58:39,085 - run_driver - INFO - TCP_PORT:5000
+2023-05-24 08:58:39,086 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-24 08:58:39,087 - run_driver - INFO - trying to run driver...
+2023-05-24 08:58:39,087 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-24 08:58:39,088 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-24 08:58:39,089 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-24 08:58:39,089 - run_driver - INFO - Run driver..
+2023-05-24 08:58:39,090 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 08:58:39,092 - cobas6k - INFO - Ready.
+2023-05-24 08:58:46,137 - cobas6k - INFO - Data: [b'\x04']
+2023-05-24 08:58:46,138 - cobas6k - INFO - >>ACK
+2023-05-24 08:58:46,157 - cobas6k - INFO - message []
+2023-05-24 08:58:54,304 - cobas6k - INFO - Data: [b'\x05']
+2023-05-24 08:58:54,305 - cobas6k - INFO - >>ACK
+2023-05-24 08:58:54,334 - cobas6k - INFO - message []
+2023-05-24 08:58:54,338 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-24 08:58:54,366 - cobas6k - INFO - >>ACK
+2023-05-24 08:58:54,403 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-24 08:58:54,415 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-24 08:58:54,416 - cobas6k - INFO - >>ACK
+2023-05-24 08:58:54,438 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-24 08:58:54,444 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-24 08:58:54,445 - cobas6k - INFO - >>ACK
+2023-05-24 08:58:54,478 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:58:54,484 - cobas6k - INFO - Data: [b'\x04']
+2023-05-24 08:58:54,491 - cobas6k - INFO - >>ACK
+2023-05-24 08:58:54,518 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:59:01,428 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 08:59:07,253 - run_driver - INFO - Starting program.
+2023-05-24 08:59:07,254 - run_driver - INFO - VERSION [0.0.2]
+2023-05-24 08:59:07,255 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-24 08:59:07,255 - run_driver - INFO - TCP_PORT:5000
+2023-05-24 08:59:07,256 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-24 08:59:07,257 - run_driver - INFO - trying to run driver...
+2023-05-24 08:59:07,258 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-24 08:59:07,259 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-24 08:59:07,260 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-24 08:59:07,260 - run_driver - INFO - Run driver..
+2023-05-24 08:59:07,261 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 08:59:07,263 - cobas6k - INFO - Ready.
+2023-05-24 08:59:11,939 - cobas6k - INFO - Data: [b'\x05']
+2023-05-24 08:59:11,940 - cobas6k - INFO - >>ACK
+2023-05-24 08:59:12,110 - cobas6k - INFO - message []
+2023-05-24 08:59:12,208 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-24 08:59:12,219 - cobas6k - INFO - >>ACK
+2023-05-24 08:59:12,232 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-24 08:59:12,261 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-24 08:59:12,262 - cobas6k - INFO - >>ACK
+2023-05-24 08:59:12,277 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-24 08:59:12,285 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-24 08:59:12,285 - cobas6k - INFO - >>ACK
+2023-05-24 08:59:12,296 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:59:12,356 - cobas6k - INFO - Data: [b'\x04']
+2023-05-24 08:59:12,361 - cobas6k - INFO - >>ACK
+2023-05-24 08:59:12,396 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:59:12,404 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:59:12,409 - cobas6k - INFO - clean ETB.
+2023-05-24 08:59:12,411 - cobas6k - INFO - clean...
+2023-05-24 08:59:12,413 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:59:12,417 - cobas6k - INFO - cleaned message is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 08:59:12,425 - cobas6k - INFO - cleaned message 2 is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N2]
+2023-05-24 08:59:12,429 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-24 08:59:12,476 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-24 08:59:12,485 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-24 08:59:12,532 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-24 08:59:12,584 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\\x1738']], ['\\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\\x17EB'], ['\\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]"]
+2023-05-24 08:59:12,668 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-24 08:59:12,671 - cobas6k - INFO - => Header message
+2023-05-24 08:59:12,672 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-24 08:59:12,673 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-24 08:59:12,675 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-24 08:59:12,681 - cobas6k - INFO - => Patient message
+2023-05-24 08:59:12,687 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-24 08:59:12,689 - cobas6k - INFO - => Order message
+2023-05-24 08:59:12,695 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-24 08:59:12,695 - cobas6k - INFO - => Comment message
+2023-05-24 08:59:12,702 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]
+2023-05-24 08:59:12,723 - cobas6k - INFO - => Test result message
+2023-05-24 08:59:12,747 - cobas6k - ERROR - Failed parsing O segment [['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]][list index out of range]
+2023-05-24 08:59:12,776 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 08:59:12,787 - cobas6k - INFO - getting test description..
+2023-05-24 08:59:12,792 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-24 08:59:12,796 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-24 08:59:12,797 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 08:59:12,799 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','38','-1','') 
+2023-05-24 08:59:13,129 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-A-HCV II-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-24 08:59:13,136 - cobas6k - INFO - ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-24 08:59:13,138 - cobas6k - INFO - Unkown message.
+2023-05-24 08:59:13,139 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 08:59:13,144 - cobas6k - INFO - => Comment message
+2023-05-24 08:59:13,149 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-24 08:59:13,151 - cobas6k - INFO - => Test result message
+2023-05-24 08:59:13,152 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 08:59:13,153 - cobas6k - INFO - getting test description..
+2023-05-24 08:59:13,154 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-24 08:59:13,155 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-24 08:59:13,156 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 08:59:13,156 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-24 08:59:13,457 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HIVCOMP-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-24 08:59:13,461 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 08:59:13,462 - cobas6k - INFO - => Comment message
+2023-05-24 08:59:13,462 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-24 08:59:13,463 - cobas6k - INFO - => Test result message
+2023-05-24 08:59:13,464 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 08:59:13,464 - cobas6k - INFO - getting test description..
+2023-05-24 08:59:13,465 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-24 08:59:13,467 - cobas6k - INFO - Return = []
+2023-05-24 08:59:13,468 - cobas6k - ERROR - Gagal dapat test code [515] cek cobas6k.db edit table `ALL_SET_TEST` sesuaikan dengan HOST_CODE alat dari System > Utilities > test code. 
+2023-05-24 10:37:02,539 - run_driver - INFO - Starting program.
+2023-05-24 10:37:02,543 - run_driver - INFO - VERSION [0.0.2]
+2023-05-24 10:37:02,543 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-24 10:37:02,544 - run_driver - INFO - TCP_PORT:5000
+2023-05-24 10:37:02,544 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-24 10:37:02,545 - run_driver - INFO - trying to run driver...
+2023-05-24 10:37:02,546 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-24 10:37:02,547 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-24 10:37:02,552 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-24 10:37:02,552 - run_driver - INFO - Run driver..
+2023-05-24 10:37:02,555 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-24 10:37:02,556 - cobas6k - INFO - Ready.
+2023-05-24 10:37:06,736 - cobas6k - INFO - Data: [b'\x05']
+2023-05-24 10:37:06,743 - cobas6k - INFO - >>ACK
+2023-05-24 10:37:06,961 - cobas6k - INFO - message []
+2023-05-24 10:37:06,999 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-24 10:37:07,005 - cobas6k - INFO - >>ACK
+2023-05-24 10:37:07,038 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-24 10:37:07,040 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-24 10:37:07,072 - cobas6k - INFO - >>ACK
+2023-05-24 10:37:07,118 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-24 10:37:07,126 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-24 10:37:07,135 - cobas6k - INFO - >>ACK
+2023-05-24 10:37:07,159 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 10:37:07,382 - cobas6k - INFO - Data: [b'\x04']
+2023-05-24 10:37:07,470 - cobas6k - INFO - >>ACK
+2023-05-24 10:37:07,605 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 10:37:07,651 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 10:37:07,683 - cobas6k - INFO - clean ETB.
+2023-05-24 10:37:07,691 - cobas6k - INFO - clean...
+2023-05-24 10:37:07,692 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 10:37:07,698 - cobas6k - INFO - cleaned message is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-24 10:37:07,701 - cobas6k - INFO - cleaned message 2 is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N2]
+2023-05-24 10:37:07,707 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-24 10:37:07,717 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-24 10:37:07,735 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-24 10:37:07,750 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-24 10:37:07,799 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\\x1738']], ['\\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\\x17EB'], ['\\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]"]
+2023-05-24 10:37:07,853 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-24 10:37:07,855 - cobas6k - INFO - => Header message
+2023-05-24 10:37:07,855 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-24 10:37:07,856 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-24 10:37:07,857 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-24 10:37:07,858 - cobas6k - INFO - => Patient message
+2023-05-24 10:37:07,858 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-24 10:37:07,859 - cobas6k - INFO - => Order message
+2023-05-24 10:37:07,860 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-24 10:37:07,861 - cobas6k - INFO - => Comment message
+2023-05-24 10:37:07,863 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]
+2023-05-24 10:37:07,864 - cobas6k - INFO - => Test result message
+2023-05-24 10:37:07,874 - cobas6k - ERROR - Failed parsing O segment [['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]][list index out of range]
+2023-05-24 10:37:07,879 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 10:37:07,903 - cobas6k - INFO - getting test description..
+2023-05-24 10:37:07,909 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-24 10:37:07,917 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-24 10:37:07,918 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 10:37:07,920 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','38','-1','') 
+2023-05-24 10:37:08,174 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-A-HCV II-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-24 10:37:08,178 - cobas6k - INFO - ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-24 10:37:08,180 - cobas6k - INFO - Unkown message.
+2023-05-24 10:37:08,182 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 10:37:08,183 - cobas6k - INFO - => Comment message
+2023-05-24 10:37:08,183 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-24 10:37:08,184 - cobas6k - INFO - => Test result message
+2023-05-24 10:37:08,186 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 10:37:08,186 - cobas6k - INFO - getting test description..
+2023-05-24 10:37:08,186 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-24 10:37:08,187 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-24 10:37:08,187 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 10:37:08,187 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-24 10:37:08,351 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HIVCOMP-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-24 10:37:08,356 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 10:37:08,357 - cobas6k - INFO - => Comment message
+2023-05-24 10:37:08,357 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-24 10:37:08,357 - cobas6k - INFO - => Test result message
+2023-05-24 10:37:08,358 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 10:37:08,358 - cobas6k - INFO - getting test description..
+2023-05-24 10:37:08,359 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-24 10:37:08,359 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-24 10:37:08,360 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 10:37:08,360 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-24 10:37:08,546 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 10:37:08,549 - cobas6k - INFO - => Comment message
+2023-05-24 10:37:08,552 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB']
+2023-05-24 10:37:08,552 - cobas6k - INFO - => Test result message
+2023-05-24 10:37:08,553 - cobas6k - ERROR - Failed parsing O segment [['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB']][list index out of range]
+2023-05-24 10:37:08,553 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-24 10:37:08,554 - cobas6k - INFO - getting test description..
+2023-05-24 10:37:08,559 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-24 10:37:08,560 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-24 10:37:08,561 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-24 10:37:08,562 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','FEB') 
+2023-05-24 10:37:08,753 - cobas6k - INFO - ['\n3ahira', '20230521115514', None, 'E12']
+2023-05-24 10:37:08,756 - cobas6k - INFO - Unkown message.
+2023-05-24 10:37:08,757 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-24 10:37:08,763 - cobas6k - INFO - => Comment message
+2023-05-24 10:37:08,764 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-24 10:37:08,764 - cobas6k - INFO - => Terminate message
+2023-05-24 10:37:08,765 - cobas6k - INFO - ['2']
+2023-05-24 10:37:08,765 - cobas6k - INFO - Unkown message.
+2023-05-26 15:51:23,298 - run_driver - INFO - Starting program.
+2023-05-26 15:51:23,300 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 15:51:23,301 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 15:51:23,301 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 15:51:23,301 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 15:51:23,301 - run_driver - INFO - trying to run driver...
+2023-05-26 15:51:23,302 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 15:51:23,302 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 15:51:23,303 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 15:51:23,303 - run_driver - INFO - Run driver..
+2023-05-26 15:51:23,304 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 15:51:23,305 - cobas6k - INFO - Ready.
+2023-05-26 15:52:17,947 - cobas6k - INFO - Data: [b'\x05']
+2023-05-26 15:52:17,948 - cobas6k - INFO - >>ACK
+2023-05-26 15:52:17,970 - cobas6k - INFO - message []
+2023-05-26 15:52:17,980 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-26 15:52:17,981 - cobas6k - INFO - >>ACK
+2023-05-26 15:52:18,000 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-26 15:52:18,003 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-26 15:52:18,005 - cobas6k - INFO - >>ACK
+2023-05-26 15:52:18,017 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-26 15:52:18,026 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-26 15:52:18,029 - cobas6k - INFO - >>ACK
+2023-05-26 15:52:18,047 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:52:18,050 - cobas6k - INFO - Data: [b'\x04']
+2023-05-26 15:52:18,051 - cobas6k - INFO - >>ACK
+2023-05-26 15:52:18,063 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:52:18,065 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:52:18,067 - cobas6k - INFO - clean ETB.
+2023-05-26 15:52:18,067 - cobas6k - INFO - clean...
+2023-05-26 15:52:18,068 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:52:18,070 - cobas6k - INFO - cleaned message is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:52:18,071 - cobas6k - INFO - cleaned message 2 is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N2]
+2023-05-26 15:52:18,073 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-26 15:52:18,075 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n23820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n3ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-26 15:52:18,077 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-26 15:52:18,081 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']], ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB'], ['\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-26 15:52:18,097 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '\\x1738']], ['\\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\\x17EB'], ['\\n3ahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]"]
+2023-05-26 15:52:18,120 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-26 15:52:18,122 - cobas6k - INFO - => Header message
+2023-05-26 15:52:18,122 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-26 15:52:18,123 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-26 15:52:18,123 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-26 15:52:18,123 - cobas6k - INFO - => Patient message
+2023-05-26 15:52:18,124 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-26 15:52:18,124 - cobas6k - INFO - => Order message
+2023-05-26 15:52:18,125 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-26 15:52:18,125 - cobas6k - INFO - => Comment message
+2023-05-26 15:52:18,126 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]
+2023-05-26 15:52:18,126 - cobas6k - INFO - => Test result message
+2023-05-26 15:52:18,127 - cobas6k - ERROR - Failed parsing O segment [['R', '1', [None, None, None, '286//not'], ['-1', '\x1738']]][list index out of range]
+2023-05-26 15:52:18,127 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:52:18,128 - cobas6k - INFO - getting test description..
+2023-05-26 15:52:18,128 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-26 15:52:18,129 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-26 15:52:18,130 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:52:18,130 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','38','-1','') 
+2023-05-26 15:52:18,793 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-A-HCV II-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:52:18,799 - cobas6k - INFO - ['\n23820.035', 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-26 15:52:18,800 - cobas6k - INFO - Unkown message.
+2023-05-26 15:52:18,802 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:52:18,802 - cobas6k - INFO - => Comment message
+2023-05-26 15:52:18,803 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-26 15:52:18,803 - cobas6k - INFO - => Test result message
+2023-05-26 15:52:18,811 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:52:18,814 - cobas6k - INFO - getting test description..
+2023-05-26 15:52:18,816 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-26 15:52:18,818 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-26 15:52:18,819 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:52:18,820 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-26 15:52:18,966 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HIVCOMP-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:52:18,969 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:52:18,970 - cobas6k - INFO - => Comment message
+2023-05-26 15:52:18,971 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-26 15:52:18,971 - cobas6k - INFO - => Test result message
+2023-05-26 15:52:18,972 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:52:18,972 - cobas6k - INFO - getting test description..
+2023-05-26 15:52:18,973 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-26 15:52:18,974 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-26 15:52:18,974 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:52:18,974 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-26 15:52:19,092 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HBSAGII-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:52:19,096 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:52:19,099 - cobas6k - INFO - => Comment message
+2023-05-26 15:52:19,099 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB']
+2023-05-26 15:52:19,100 - cobas6k - INFO - => Test result message
+2023-05-26 15:52:19,100 - cobas6k - ERROR - Failed parsing O segment [['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'F\x17EB']][list index out of range]
+2023-05-26 15:52:19,101 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:52:19,101 - cobas6k - INFO - getting test description..
+2023-05-26 15:52:19,102 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-26 15:52:19,103 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-26 15:52:19,104 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:52:19,105 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','FEB') 
+2023-05-26 15:52:19,260 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-Syphilis-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:52:19,263 - cobas6k - INFO - ['\n3ahira', '20230521115514', None, 'E12']
+2023-05-26 15:52:19,265 - cobas6k - INFO - Unkown message.
+2023-05-26 15:52:19,266 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:52:19,269 - cobas6k - INFO - => Comment message
+2023-05-26 15:52:19,271 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-26 15:52:19,271 - cobas6k - INFO - => Terminate message
+2023-05-26 15:52:19,271 - cobas6k - INFO - ['2']
+2023-05-26 15:52:19,272 - cobas6k - INFO - Unkown message.
+2023-05-26 15:55:05,144 - run_driver - INFO - Starting program.
+2023-05-26 15:55:05,145 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 15:55:05,145 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 15:55:05,146 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 15:55:05,147 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 15:55:05,147 - run_driver - INFO - trying to run driver...
+2023-05-26 15:55:05,147 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 15:55:05,148 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 15:55:05,149 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 15:55:05,149 - run_driver - INFO - Run driver..
+2023-05-26 15:55:05,150 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 15:55:05,152 - cobas6k - INFO - Ready.
+2023-05-26 15:55:17,910 - cobas6k - INFO - Data: [b'\x05']
+2023-05-26 15:55:17,910 - cobas6k - INFO - >>ACK
+2023-05-26 15:55:18,019 - cobas6k - INFO - message []
+2023-05-26 15:55:18,028 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-26 15:55:18,029 - cobas6k - INFO - >>ACK
+2023-05-26 15:55:18,059 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-26 15:55:18,065 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-26 15:55:18,067 - cobas6k - INFO - >>ACK
+2023-05-26 15:55:18,085 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-26 15:55:18,095 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-26 15:55:18,096 - cobas6k - INFO - >>ACK
+2023-05-26 15:55:18,116 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:55:18,122 - cobas6k - INFO - Data: [b'\x04']
+2023-05-26 15:55:18,123 - cobas6k - INFO - >>ACK
+2023-05-26 15:55:18,143 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:55:18,149 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:55:18,152 - cobas6k - INFO - clean ETB.
+2023-05-26 15:55:18,152 - cobas6k - INFO - clean...
+2023-05-26 15:55:18,153 - cobas6k - INFO - got rec [241]
+2023-05-26 15:55:18,153 - cobas6k - INFO - 38
+2
+2023-05-26 15:55:18,154 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 15:55:18,155 - cobas6k - INFO - got rec [481]
+2023-05-26 15:55:18,161 - cobas6k - INFO - EB
+3
+2023-05-26 15:55:18,168 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 15:55:18,170 - cobas6k - INFO - got rec [-1]
+2023-05-26 15:55:18,171 - cobas6k - INFO - 
+2023-05-26 15:55:18,172 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 15:55:18,178 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:55:18,180 - cobas6k - INFO - cleaned message is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 15:55:18,181 - cobas6k - INFO - cleaned message 2 is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N2]
+2023-05-26 15:55:18,182 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-26 15:55:18,183 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r2\r\x03'
+2023-05-26 15:55:18,185 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-26 15:55:18,187 - cobas6k - INFO - saving raw data [IN,[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]]
+2023-05-26 15:55:18,196 - cobas6k - INFO - Insert - INSERT INTO RAW_DATA (direction,message) VALUES (?,?) data:['IN', "[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], ['2']]"]
+2023-05-26 15:55:18,213 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-26 15:55:18,214 - cobas6k - INFO - => Header message
+2023-05-26 15:55:18,214 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-26 15:55:18,215 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-26 15:55:18,215 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-26 15:55:18,216 - cobas6k - INFO - => Patient message
+2023-05-26 15:55:18,217 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-26 15:55:18,217 - cobas6k - INFO - => Order message
+2023-05-26 15:55:18,217 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-26 15:55:18,217 - cobas6k - INFO - => Comment message
+2023-05-26 15:55:18,218 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-26 15:55:18,224 - cobas6k - INFO - => Test result message
+2023-05-26 15:55:18,231 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:55:18,233 - cobas6k - INFO - getting test description..
+2023-05-26 15:55:18,236 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-26 15:55:18,237 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-26 15:55:18,238 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:55:18,238 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','3820.035','-1','Fahira') 
+2023-05-26 15:55:18,386 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-A-HCV II-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:55:18,390 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:55:18,391 - cobas6k - INFO - => Comment message
+2023-05-26 15:55:18,391 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-26 15:55:18,392 - cobas6k - INFO - => Test result message
+2023-05-26 15:55:18,392 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:55:18,392 - cobas6k - INFO - getting test description..
+2023-05-26 15:55:18,393 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-26 15:55:18,394 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-26 15:55:18,394 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:55:18,395 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-26 15:55:18,527 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HIVCOMP-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:55:18,530 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:55:18,530 - cobas6k - INFO - => Comment message
+2023-05-26 15:55:18,531 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-26 15:55:18,531 - cobas6k - INFO - => Test result message
+2023-05-26 15:55:18,531 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:55:18,532 - cobas6k - INFO - getting test description..
+2023-05-26 15:55:18,533 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-26 15:55:18,533 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-26 15:55:18,534 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:55:18,534 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-26 15:55:18,647 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HBSAGII-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:55:18,650 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:55:18,650 - cobas6k - INFO - => Comment message
+2023-05-26 15:55:18,651 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12']
+2023-05-26 15:55:18,651 - cobas6k - INFO - => Test result message
+2023-05-26 15:55:18,651 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 15:55:18,652 - cobas6k - INFO - getting test description..
+2023-05-26 15:55:18,654 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-26 15:55:18,655 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-26 15:55:18,655 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 15:55:18,656 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','Fahira') 
+2023-05-26 15:55:18,784 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-Syphilis-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 15:55:18,788 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 15:55:18,788 - cobas6k - INFO - => Comment message
+2023-05-26 15:55:18,789 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-26 15:55:18,789 - cobas6k - INFO - => Terminate message
+2023-05-26 15:55:18,790 - cobas6k - INFO - ['2']
+2023-05-26 15:55:18,791 - cobas6k - INFO - Unkown message.
+2023-05-26 16:02:04,322 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:02:11,117 - run_driver - INFO - Starting program.
+2023-05-26 16:02:11,117 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 16:02:11,118 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 16:02:11,118 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 16:02:11,118 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 16:02:11,118 - run_driver - INFO - trying to run driver...
+2023-05-26 16:02:11,119 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 16:02:11,119 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 16:02:11,119 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 16:02:11,120 - run_driver - INFO - Run driver..
+2023-05-26 16:02:11,120 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:02:11,121 - cobas6k - INFO - Ready.
+2023-05-26 16:02:16,788 - cobas6k - INFO - Data: [b'\x05']
+2023-05-26 16:02:16,788 - cobas6k - INFO - >>ACK
+2023-05-26 16:02:16,932 - cobas6k - INFO - message []
+2023-05-26 16:02:16,942 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-26 16:02:16,943 - cobas6k - INFO - >>ACK
+2023-05-26 16:02:16,968 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-26 16:02:16,970 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-26 16:02:16,975 - cobas6k - INFO - >>ACK
+2023-05-26 16:02:16,998 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-26 16:02:17,001 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-26 16:02:17,003 - cobas6k - INFO - >>ACK
+2023-05-26 16:02:17,014 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:02:17,021 - cobas6k - INFO - Data: [b'\x04']
+2023-05-26 16:02:17,022 - cobas6k - INFO - >>ACK
+2023-05-26 16:02:17,046 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:02:17,050 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:02:17,052 - cobas6k - INFO - clean ETB.
+2023-05-26 16:02:17,052 - cobas6k - INFO - clean...
+2023-05-26 16:02:17,053 - cobas6k - INFO - got rec [241]
+2023-05-26 16:02:17,054 - cobas6k - INFO - 38
+2
+2023-05-26 16:02:17,055 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:02:17,057 - cobas6k - INFO - got rec [481]
+2023-05-26 16:02:17,057 - cobas6k - INFO - EB
+3
+2023-05-26 16:02:17,059 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:02:17,060 - cobas6k - INFO - got rec [-1]
+2023-05-26 16:02:17,061 - cobas6k - INFO - 
+2023-05-26 16:02:17,061 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:02:17,062 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:02:17,063 - cobas6k - INFO - cleaned message ETB is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:02:17,065 - cobas6k - INFO - cleaned message final is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N]
+2023-05-26 16:02:17,065 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:02:17,066 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:02:17,067 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], [None]]]
+2023-05-26 16:02:17,069 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-26 16:02:17,070 - cobas6k - INFO - => Header message
+2023-05-26 16:02:17,070 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-26 16:02:17,071 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-26 16:02:17,071 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-26 16:02:17,072 - cobas6k - INFO - => Patient message
+2023-05-26 16:02:17,072 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-26 16:02:17,073 - cobas6k - INFO - => Order message
+2023-05-26 16:02:17,073 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-26 16:02:17,074 - cobas6k - INFO - => Comment message
+2023-05-26 16:02:17,074 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-26 16:02:17,075 - cobas6k - INFO - => Test result message
+2023-05-26 16:02:17,075 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:02:17,075 - cobas6k - INFO - getting test description..
+2023-05-26 16:02:17,076 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-26 16:02:17,079 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-26 16:02:17,079 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:02:17,080 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','3820.035','-1','Fahira') 
+2023-05-26 16:02:17,241 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-A-HCV II-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:02:17,245 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:02:17,246 - cobas6k - INFO - => Comment message
+2023-05-26 16:02:17,247 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-26 16:02:17,247 - cobas6k - INFO - => Test result message
+2023-05-26 16:02:17,247 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:02:17,248 - cobas6k - INFO - getting test description..
+2023-05-26 16:02:17,248 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-26 16:02:17,249 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-26 16:02:17,250 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:02:17,250 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-26 16:02:17,399 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HIVCOMP-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:02:17,405 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:02:17,407 - cobas6k - INFO - => Comment message
+2023-05-26 16:02:17,411 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-26 16:02:17,412 - cobas6k - INFO - => Test result message
+2023-05-26 16:02:17,413 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:02:17,413 - cobas6k - INFO - getting test description..
+2023-05-26 16:02:17,414 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-26 16:02:17,415 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-26 16:02:17,415 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:02:17,416 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-26 16:02:17,579 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HBSAGII-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:02:17,583 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:02:17,584 - cobas6k - INFO - => Comment message
+2023-05-26 16:02:17,584 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12']
+2023-05-26 16:02:17,584 - cobas6k - INFO - => Test result message
+2023-05-26 16:02:17,585 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:02:17,585 - cobas6k - INFO - getting test description..
+2023-05-26 16:02:17,586 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-26 16:02:17,588 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-26 16:02:17,588 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:02:17,588 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','Fahira') 
+2023-05-26 16:02:17,750 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-Syphilis-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:02:17,753 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:02:17,755 - cobas6k - INFO - => Comment message
+2023-05-26 16:02:17,755 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-26 16:02:17,756 - cobas6k - INFO - => Terminate message
+2023-05-26 16:02:17,756 - cobas6k - INFO - [None]
+2023-05-26 16:02:17,757 - cobas6k - INFO - Unkown message.
+2023-05-26 16:07:12,717 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:08:02,013 - run_driver - INFO - Starting program.
+2023-05-26 16:08:02,014 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 16:08:02,015 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 16:08:02,015 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 16:08:02,016 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 16:08:02,016 - run_driver - INFO - trying to run driver...
+2023-05-26 16:08:02,017 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 16:08:02,018 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 16:08:02,018 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 16:08:02,019 - run_driver - INFO - Try run driver..
+2023-05-26 16:08:02,019 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:08:04,060 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-05-26 16:08:12,961 - run_driver - INFO - Starting program.
+2023-05-26 16:08:12,962 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 16:08:12,963 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 16:08:12,964 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 16:08:12,965 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 16:08:12,966 - run_driver - INFO - trying to run driver...
+2023-05-26 16:08:12,967 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 16:08:12,968 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 16:08:12,969 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 16:08:12,970 - run_driver - INFO - Try run driver..
+2023-05-26 16:08:12,971 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:08:12,973 - cobas6k - INFO - Ready.
+2023-05-26 16:08:17,782 - cobas6k - INFO - Data: [b'\x05']
+2023-05-26 16:08:17,782 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:17,924 - cobas6k - INFO - message []
+2023-05-26 16:08:17,926 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-26 16:08:17,935 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:17,963 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-26 16:08:17,976 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-26 16:08:17,978 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:18,006 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-26 16:08:18,013 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-26 16:08:18,016 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:18,032 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:18,037 - cobas6k - INFO - Data: [b'\x04']
+2023-05-26 16:08:18,037 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:18,066 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:18,070 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:18,076 - cobas6k - INFO - clean ETB.
+2023-05-26 16:08:18,078 - cobas6k - INFO - clean...
+2023-05-26 16:08:18,080 - cobas6k - INFO - got rec [241]
+2023-05-26 16:08:18,082 - cobas6k - INFO - 38
+2
+2023-05-26 16:08:18,084 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:08:18,086 - cobas6k - INFO - got rec [481]
+2023-05-26 16:08:18,087 - cobas6k - INFO - EB
+3
+2023-05-26 16:08:18,088 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:08:18,100 - cobas6k - INFO - got rec [-1]
+2023-05-26 16:08:18,106 - cobas6k - INFO - 
+2023-05-26 16:08:18,107 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:08:18,109 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:18,118 - cobas6k - INFO - cleaned message ETB is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:18,125 - cobas6k - INFO - cleaned message final is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N]
+2023-05-26 16:08:18,126 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:08:18,130 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:08:18,132 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], [None]]]
+2023-05-26 16:08:18,135 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-26 16:08:18,136 - cobas6k - INFO - => Header message
+2023-05-26 16:08:18,138 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-26 16:08:18,139 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-26 16:08:18,139 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-26 16:08:18,142 - cobas6k - INFO - => Patient message
+2023-05-26 16:08:18,146 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-26 16:08:18,150 - cobas6k - INFO - => Order message
+2023-05-26 16:08:18,155 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-26 16:08:18,168 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:18,178 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-26 16:08:18,178 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:18,179 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:18,180 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:18,181 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-26 16:08:18,183 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-26 16:08:18,185 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:18,185 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'A-HCV II' AND parameter_no ='2' AND sample_type = 'S' 
+2023-05-26 16:08:18,395 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:18,396 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','3820.035','-1','Fahira') 
+2023-05-26 16:08:18,566 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:18,568 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:18,573 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-26 16:08:18,576 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:18,580 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:18,583 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:18,586 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-26 16:08:18,588 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-26 16:08:18,588 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:18,588 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'HIVCOMP' AND parameter_no ='3' AND sample_type = 'S' 
+2023-05-26 16:08:18,765 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:18,767 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-26 16:08:18,931 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:18,931 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:18,934 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-26 16:08:18,936 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:18,936 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:18,937 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:18,938 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-26 16:08:18,939 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-26 16:08:18,939 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:18,939 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'HBSAGII' AND parameter_no ='1' AND sample_type = 'S' 
+2023-05-26 16:08:19,108 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:19,108 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-26 16:08:19,263 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:19,265 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:19,266 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12']
+2023-05-26 16:08:19,267 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:19,270 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:19,271 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:19,272 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-26 16:08:19,274 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-26 16:08:19,275 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:19,277 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'Syphilis' AND parameter_no ='4' AND sample_type = 'S' 
+2023-05-26 16:08:19,438 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:19,439 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','Fahira') 
+2023-05-26 16:08:19,604 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:19,605 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:19,606 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-26 16:08:19,606 - cobas6k - INFO - => Terminate message
+2023-05-26 16:08:19,606 - cobas6k - INFO - [None]
+2023-05-26 16:08:19,607 - cobas6k - INFO - Unkown message.
+2023-05-26 16:08:33,779 - cobas6k - INFO - Data: [b'\x05']
+2023-05-26 16:08:33,779 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:33,945 - cobas6k - INFO - message []
+2023-05-26 16:08:33,958 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-26 16:08:33,960 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:33,985 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-26 16:08:34,031 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-26 16:08:34,038 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:34,062 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-26 16:08:34,084 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-26 16:08:34,085 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:34,112 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:34,136 - cobas6k - INFO - Data: [b'\x04']
+2023-05-26 16:08:34,137 - cobas6k - INFO - >>ACK
+2023-05-26 16:08:34,164 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:34,169 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:34,171 - cobas6k - INFO - clean ETB.
+2023-05-26 16:08:34,171 - cobas6k - INFO - clean...
+2023-05-26 16:08:34,172 - cobas6k - INFO - got rec [241]
+2023-05-26 16:08:34,173 - cobas6k - INFO - 38
+2
+2023-05-26 16:08:34,174 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:08:34,175 - cobas6k - INFO - got rec [481]
+2023-05-26 16:08:34,176 - cobas6k - INFO - EB
+3
+2023-05-26 16:08:34,177 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:08:34,178 - cobas6k - INFO - got rec [-1]
+2023-05-26 16:08:34,178 - cobas6k - INFO - 
+2023-05-26 16:08:34,179 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:08:34,180 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:34,181 - cobas6k - INFO - cleaned message ETB is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:08:34,182 - cobas6k - INFO - cleaned message final is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N]
+2023-05-26 16:08:34,183 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:08:34,184 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:08:34,186 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], [None]]]
+2023-05-26 16:08:34,189 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-26 16:08:34,191 - cobas6k - INFO - => Header message
+2023-05-26 16:08:34,192 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-26 16:08:34,193 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-26 16:08:34,193 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-26 16:08:34,194 - cobas6k - INFO - => Patient message
+2023-05-26 16:08:34,194 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-26 16:08:34,195 - cobas6k - INFO - => Order message
+2023-05-26 16:08:34,196 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-26 16:08:34,196 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:34,197 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-26 16:08:34,197 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:34,198 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:34,198 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:34,199 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-26 16:08:34,200 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-26 16:08:34,200 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:34,201 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'A-HCV II' AND parameter_no ='2' AND sample_type = 'S' 
+2023-05-26 16:08:34,377 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:34,378 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','3820.035','-1','Fahira') 
+2023-05-26 16:08:34,525 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-A-HCV II-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:08:34,530 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:34,531 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:34,535 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-26 16:08:34,535 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:34,536 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:34,537 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:34,537 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-26 16:08:34,538 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-26 16:08:34,539 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:34,539 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'HIVCOMP' AND parameter_no ='3' AND sample_type = 'S' 
+2023-05-26 16:08:34,723 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:34,725 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-26 16:08:34,962 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HIVCOMP-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:08:34,973 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:34,975 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:34,976 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-26 16:08:34,976 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:34,977 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:34,977 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:34,978 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-26 16:08:34,981 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-26 16:08:34,982 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:34,982 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'HBSAGII' AND parameter_no ='1' AND sample_type = 'S' 
+2023-05-26 16:08:35,143 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:35,143 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-26 16:08:35,328 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-HBSAGII-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:08:35,332 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:35,333 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:35,335 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12']
+2023-05-26 16:08:35,338 - cobas6k - INFO - => Test result message
+2023-05-26 16:08:35,339 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:08:35,342 - cobas6k - INFO - getting test description..
+2023-05-26 16:08:35,343 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-26 16:08:35,345 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-26 16:08:35,346 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:35,348 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_no = 'Syphilis' AND parameter_no ='4' AND sample_type = 'S' 
+2023-05-26 16:08:35,516 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:08:35,520 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','Fahira') 
+2023-05-26 16:08:35,739 - cobas6k - ERROR - (1062, "Duplicate entry 'cobas6000.1-Syphilis-2023-05-21 11:54:00-S3854156A' for key 'instrument_name'")
+2023-05-26 16:08:35,743 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:08:35,747 - cobas6k - INFO - => Comment message
+2023-05-26 16:08:35,747 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-26 16:08:35,748 - cobas6k - INFO - => Terminate message
+2023-05-26 16:08:35,748 - cobas6k - INFO - [None]
+2023-05-26 16:08:35,749 - cobas6k - INFO - Unkown message.
+2023-05-26 16:10:25,332 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:10:27,408 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-05-26 16:10:34,308 - run_driver - INFO - Starting program.
+2023-05-26 16:10:34,308 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 16:10:34,308 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 16:10:34,318 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 16:10:34,319 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 16:10:34,320 - run_driver - INFO - trying to run driver...
+2023-05-26 16:10:34,320 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 16:10:34,321 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 16:10:34,321 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 16:10:34,322 - run_driver - INFO - Try run driver..
+2023-05-26 16:10:34,322 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:10:36,367 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-05-26 16:10:39,924 - run_driver - INFO - Starting program.
+2023-05-26 16:10:39,924 - run_driver - INFO - VERSION [0.0.2]
+2023-05-26 16:10:39,925 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-26 16:10:39,926 - run_driver - INFO - TCP_PORT:5000
+2023-05-26 16:10:39,926 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-26 16:10:39,927 - run_driver - INFO - trying to run driver...
+2023-05-26 16:10:39,927 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-26 16:10:39,928 - cobas6k - INFO - cobas6k - 0.0.9 loaded.
+2023-05-26 16:10:39,928 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-26 16:10:39,929 - run_driver - INFO - Try run driver..
+2023-05-26 16:10:39,929 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:10:39,944 - cobas6k - INFO - Ready.
+2023-05-26 16:10:45,747 - cobas6k - INFO - Data: [b'\x05']
+2023-05-26 16:10:45,747 - cobas6k - INFO - >>ACK
+2023-05-26 16:10:45,906 - cobas6k - INFO - message []
+2023-05-26 16:10:45,916 - cobas6k - INFO - Data: [b'\x021H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^\x1738\r\n']
+2023-05-26 16:10:45,917 - cobas6k - INFO - >>ACK
+2023-05-26 16:10:45,944 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+]
+2023-05-26 16:10:45,959 - cobas6k - INFO - Data: [b'\x0223820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||F\x17EB\r\n']
+2023-05-26 16:10:45,960 - cobas6k - INFO - >>ACK
+2023-05-26 16:10:45,985 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+]
+2023-05-26 16:10:45,994 - cobas6k - INFO - Data: [b'\x023ahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\x0327\r\n']
+2023-05-26 16:10:46,000 - cobas6k - INFO - >>ACK
+2023-05-26 16:10:46,027 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:10:46,042 - cobas6k - INFO - Data: [b'\x04']
+2023-05-26 16:10:46,042 - cobas6k - INFO - >>ACK
+2023-05-26 16:10:46,064 - cobas6k - INFO - message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:10:46,073 - cobas6k - INFO - start processing message [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^38
+23820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:10:46,082 - cobas6k - INFO - clean ETB.
+2023-05-26 16:10:46,084 - cobas6k - INFO - clean...
+2023-05-26 16:10:46,086 - cobas6k - INFO - got rec [241]
+2023-05-26 16:10:46,087 - cobas6k - INFO - 38
+2
+2023-05-26 16:10:46,094 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||FEB
+3ahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:10:46,095 - cobas6k - INFO - got rec [481]
+2023-05-26 16:10:46,096 - cobas6k - INFO - EB
+3
+2023-05-26 16:10:46,097 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:10:46,100 - cobas6k - INFO - got rec [-1]
+2023-05-26 16:10:46,102 - cobas6k - INFO - 
+2023-05-26 16:10:46,103 - cobas6k - INFO - 1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+
+2023-05-26 16:10:46,106 - cobas6k - INFO - result [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:10:46,108 - cobas6k - INFO - cleaned message ETB is [1H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N27
+]
+2023-05-26 16:10:46,110 - cobas6k - INFO - cleaned message final is [H|\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1P|1|||||||U||||||^O|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\^^^111^\^^^515^\^^^149^|R||||||N||||1|||||||20230521115400|||FC|1|I|                              ^^^^|GR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11C|1|I|0|IR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11C|1|I|0|IR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11C|1|I|0|IR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12C|1|I|0|IL|1|N]
+2023-05-26 16:10:46,111 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:10:46,113 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||cobas6000^1|||||host|RSUPL^BATCH|P|1\rP|1|||||||U||||||^\rO|1|             S3854156A|0^5007^1^^S1^SC|^^^286^\\^^^111^\\^^^515^\\^^^149^|R||||||N||||1|||||||20230521115400|||F\rC|1|I|                              ^^^^|G\rR|1|^^^286//not|-1^3820.035|COI||N||F||Fahira|20230521115617||E11\rC|1|I|0|I\rR|2|^^^111//not|-1^0.188|COI||N||F||Fahira|20230521115659||E11\rC|1|I|0|I\rR|3|^^^515//not|-1^0.493|COI||N||F||Fahira|20230521115535||E11\rC|1|I|0|I\rR|4|^^^149//not|-1^0.054|COI||N||F||Fahira|20230521115514||E12\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-05-26 16:10:46,114 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1'], ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]], ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F'], ['C', '1', 'I', ['                              ', None, None, None, None], 'G'], ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11'], ['C', '1', 'I', '0', 'I'], ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12'], ['C', '1', 'I', '0', 'I'], ['L', '1', 'N'], [None]]]
+2023-05-26 16:10:46,143 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['cobas6000', '1'], None, None, None, None, 'host', ['RSUPL', 'BATCH'], 'P', '1']
+2023-05-26 16:10:46,145 - cobas6k - INFO - => Header message
+2023-05-26 16:10:46,147 - cobas6k - INFO - ['RSUPL', 'BATCH']
+2023-05-26 16:10:46,148 - cobas6k - INFO - Message is RESULT UPLOAD
+2023-05-26 16:10:46,149 - cobas6k - INFO - ['P', '1', None, None, None, None, None, None, 'U', None, None, None, None, None, [None, None]]
+2023-05-26 16:10:46,150 - cobas6k - INFO - => Patient message
+2023-05-26 16:10:46,150 - cobas6k - INFO - ['O', '1', '             S3854156A', ['0', '5007', '1', None, 'S1', 'SC'], [[None, None, None, '286', None], [None, None, None, '111', None], [None, None, None, '515', None], [None, None, None, '149', None]], 'R', None, None, None, None, None, 'N', None, None, None, '1', None, None, None, None, None, None, '20230521115400', None, None, 'F']
+2023-05-26 16:10:46,152 - cobas6k - INFO - => Order message
+2023-05-26 16:10:46,152 - cobas6k - INFO - ['C', '1', 'I', ['                              ', None, None, None, None], 'G']
+2023-05-26 16:10:46,155 - cobas6k - INFO - => Comment message
+2023-05-26 16:10:46,155 - cobas6k - INFO - ['R', '1', [None, None, None, '286//not'], ['-1', '3820.035'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115617', None, 'E11']
+2023-05-26 16:10:46,156 - cobas6k - INFO - => Test result message
+2023-05-26 16:10:46,157 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:10:46,158 - cobas6k - INFO - getting test description..
+2023-05-26 16:10:46,159 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '286'  
+2023-05-26 16:10:46,160 - cobas6k - INFO - Return = [('A-HCV II',)]
+2023-05-26 16:10:46,161 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:46,161 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_name = 'A-HCV II' AND parameter_no ='2' AND sample_type = 'S' 
+2023-05-26 16:10:46,331 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:46,333 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','A-HCV II','2','S','3820.035','-1','Fahira') 
+2023-05-26 16:10:46,509 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:10:46,514 - cobas6k - INFO - => Comment message
+2023-05-26 16:10:46,517 - cobas6k - INFO - ['R', '2', [None, None, None, '111//not'], ['-1', '0.188'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115659', None, 'E11']
+2023-05-26 16:10:46,520 - cobas6k - INFO - => Test result message
+2023-05-26 16:10:46,522 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:10:46,529 - cobas6k - INFO - getting test description..
+2023-05-26 16:10:46,530 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '111'  
+2023-05-26 16:10:46,531 - cobas6k - INFO - Return = [('HIVCOMP',)]
+2023-05-26 16:10:46,531 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:46,532 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_name = 'HIVCOMP' AND parameter_no ='3' AND sample_type = 'S' 
+2023-05-26 16:10:46,795 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:46,796 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HIVCOMP','3','S','0.188','-1','Fahira') 
+2023-05-26 16:10:47,044 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:10:47,045 - cobas6k - INFO - => Comment message
+2023-05-26 16:10:47,045 - cobas6k - INFO - ['R', '3', [None, None, None, '515//not'], ['-1', '0.493'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115535', None, 'E11']
+2023-05-26 16:10:47,047 - cobas6k - INFO - => Test result message
+2023-05-26 16:10:47,047 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:10:47,047 - cobas6k - INFO - getting test description..
+2023-05-26 16:10:47,048 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '515'  
+2023-05-26 16:10:47,049 - cobas6k - INFO - Return = [('HBSAGII',)]
+2023-05-26 16:10:47,051 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:47,051 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_name = 'HBSAGII' AND parameter_no ='1' AND sample_type = 'S' 
+2023-05-26 16:10:47,191 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:47,193 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','HBSAGII','1','S','0.493','-1','Fahira') 
+2023-05-26 16:10:47,368 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:10:47,377 - cobas6k - INFO - => Comment message
+2023-05-26 16:10:47,380 - cobas6k - INFO - ['R', '4', [None, None, None, '149//not'], ['-1', '0.054'], 'COI', None, 'N', None, 'F', None, 'Fahira', '20230521115514', None, 'E12']
+2023-05-26 16:10:47,383 - cobas6k - INFO - => Test result message
+2023-05-26 16:10:47,385 - cobas6k - INFO - Inserting ke MySQL...
+2023-05-26 16:10:47,385 - cobas6k - INFO - getting test description..
+2023-05-26 16:10:47,386 - cobas6k - INFO - Query - SELECT Desc FROM ALL_SET_TESTS WHERE TestNo = '149'  
+2023-05-26 16:10:47,387 - cobas6k - INFO - Return = [('Syphilis',)]
+2023-05-26 16:10:47,387 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:47,388 - cobas6k - INFO - DELETE FROM cobas6000 WHERE instrument_name = 'cobas6000.1' AND sample_id = 'S3854156A' AND parameter_name = 'Syphilis' AND parameter_no ='4' AND sample_type = 'S' 
+2023-05-26 16:10:47,537 - cobas6k - INFO - IP MySQL [127.0.0.1]
+2023-05-26 16:10:47,537 - cobas6k - INFO - INSERT INTO cobas6000 (instrument_name,run_time,sample_id,parameter_name,parameter_no,sample_type,quantitative,qualitative,operator) VALUES ('cobas6000.1','2023-05-21 11:54:00','S3854156A','Syphilis','4','S','0.054','-1','Fahira') 
+2023-05-26 16:10:47,684 - cobas6k - INFO - ['C', '1', 'I', '0', 'I']
+2023-05-26 16:10:47,685 - cobas6k - INFO - => Comment message
+2023-05-26 16:10:47,685 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-26 16:10:47,686 - cobas6k - INFO - => Terminate message
+2023-05-26 16:10:47,686 - cobas6k - INFO - [None]
+2023-05-26 16:10:47,686 - cobas6k - INFO - Unkown message.
+2023-05-26 16:14:07,030 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:14:09,082 - cobas6k - INFO - Ready.
+2023-05-26 16:14:13,529 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-26 16:14:15,564 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
