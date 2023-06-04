@@ -2527,3 +2527,110 @@
 2023-05-26 16:14:09,082 - cobas6k - INFO - Ready.
 2023-05-26 16:14:13,529 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
 2023-05-26 16:14:15,564 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-05-27 20:26:15,126 - run_driver - INFO - Starting program.
+2023-05-27 20:26:15,127 - run_driver - INFO - VERSION [0.0.2]
+2023-05-27 20:26:15,128 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-27 20:26:15,128 - run_driver - INFO - TCP_PORT:5000
+2023-05-27 20:26:15,129 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-27 20:26:15,129 - run_driver - INFO - trying to run driver...
+2023-05-27 20:26:15,129 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-27 20:26:15,129 - cobas6k - INFO - cobas6k - 0.1.0 loaded.
+2023-05-27 20:26:15,130 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-27 20:26:15,131 - run_driver - INFO - Try run driver..
+2023-05-27 20:26:15,132 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-27 20:26:15,135 - cobas6k - INFO - Ready.
+2023-05-27 20:26:28,660 - cobas6k - INFO - Data: [b'\x05']
+2023-05-27 20:26:28,666 - cobas6k - INFO - >>ACK
+2023-05-27 20:26:28,853 - cobas6k - INFO - message []
+2023-05-27 20:26:28,926 - cobas6k - INFO - Data: [b'\x021H|\\^&|||H7600^1|||||Host|TSREQ^REAL|P|1\rQ|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||O\rL|1|N\r\x0350\r\n']
+2023-05-27 20:26:28,934 - cobas6k - INFO - >>ACK
+2023-05-27 20:26:28,950 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N50
+]
+2023-05-27 20:26:29,019 - cobas6k - INFO - Data: [b'\x04']
+2023-05-27 20:26:29,021 - cobas6k - INFO - >>ACK
+2023-05-27 20:26:29,044 - cobas6k - INFO - message [1H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N50
+]
+2023-05-27 20:26:29,049 - cobas6k - INFO - start processing message [1H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N50
+]
+2023-05-27 20:26:29,055 - cobas6k - INFO - clean ETB.
+2023-05-27 20:26:29,056 - cobas6k - INFO - clean...
+2023-05-27 20:26:29,057 - cobas6k - INFO - got rec [-1]
+2023-05-27 20:26:29,058 - cobas6k - INFO - 
+2023-05-27 20:26:29,060 - cobas6k - INFO - 1H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N50
+
+2023-05-27 20:26:29,062 - cobas6k - INFO - result [1H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N50
+]
+2023-05-27 20:26:29,089 - cobas6k - INFO - cleaned message ETB is [1H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N50
+]
+2023-05-27 20:26:29,094 - cobas6k - INFO - cleaned message final is [H|\^&|||H7600^1|||||Host|TSREQ^REAL|P|1Q|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||OL|1|N]
+2023-05-27 20:26:29,100 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|TSREQ^REAL|P|1\rQ|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||O\rL|1|N\r\r\x03'
+2023-05-27 20:26:29,104 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|TSREQ^REAL|P|1\rQ|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||O\rL|1|N\r\r\x03'
+2023-05-27 20:26:29,106 - cobas6k - INFO - decoded to [[['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['TSREQ', 'REAL'], 'P', '1'], ['Q', '1', [None, None, '              SampleID', '0', '5238', '1', None, 'S1', 'SC'], None, 'ALL', None, None, None, None, None, None, None, 'O'], ['L', '1', 'N'], [None]]]
+2023-05-27 20:26:29,107 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['TSREQ', 'REAL'], 'P', '1']
+2023-05-27 20:26:29,109 - cobas6k - INFO - => Header message
+2023-05-27 20:26:29,113 - cobas6k - INFO - ['TSREQ', 'REAL']
+2023-05-27 20:26:29,115 - cobas6k - INFO - Message is TEST SELECTION request.
+2023-05-27 20:26:29,116 - cobas6k - INFO - handle TS Request..
+2023-05-27 20:26:29,121 - cobas6k - INFO - ['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['TSREQ', 'REAL'], 'P', '1']
+2023-05-27 20:26:29,128 - cobas6k - INFO - ['Q', '1', [None, None, '              SampleID', '0', '5238', '1', None, 'S1', 'SC'], None, 'ALL', None, None, None, None, None, None, None, 'O']
+2023-05-27 20:26:29,130 - cobas6k - INFO -  Q - Getting SID..
+2023-05-27 20:26:29,132 - cobas6k - INFO -  SID is "SampleID"
+2023-05-27 20:26:29,178 - cobas6k - INFO - Query - SELECT count(id) jum FROM SAMPLE_SENT WHERE sample_no = 'SampleID' 
+2023-05-27 20:26:29,203 - cobas6k - INFO - Return = [(0,)]
+2023-05-27 20:26:29,208 - cobas6k - INFO - 0
+2023-05-27 20:26:29,211 - cobas6k - INFO -   -> seq:0 RackNo-Pos: (5238 - 1) Racktype-ContainerType:(S1-SC)
+2023-05-27 20:26:29,213 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-27 20:26:29,213 - cobas6k - INFO - [None]
+2023-05-27 20:26:29,215 - cobas6k - INFO -  getting config name TS..
+2023-05-27 20:26:29,219 - cobas6k - INFO - Query - SELECT char_value FROM config WHERE name = 'TS' 
+2023-05-27 20:26:29,221 - cobas6k - INFO - Return = [('ALL_SET_TESTS',)]
+2023-05-27 20:26:29,222 - cobas6k - INFO - ALL_SET_TESTS : get SET TEST and send it to instrument
+2023-05-27 20:26:29,224 - cobas6k - INFO - Query - SELECT TestNo,Dilution FROM ALL_SET_TESTS WHERE Active = 1 
+2023-05-27 20:26:29,226 - cobas6k - INFO - Return = [(149, 1), (111, 1), (515, 1), (286, 1)]
+2023-05-27 20:26:29,234 - cobas6k - INFO - ^^^149^1\^^^111^1\^^^515^1\^^^286^1
+2023-05-27 20:26:29,237 - cobas6k - INFO -  -> Generate comment field
+2023-05-27 20:26:29,245 - cobas6k - INFO - Query - SELECT char_value FROM config WHERE name = 'TS_ALL_SET_TESTS_COMM1' 
+2023-05-27 20:26:29,251 - cobas6k - INFO - Return = [('SIMDONDAR',)]
+2023-05-27 20:26:29,257 - cobas6k - INFO - Query - SELECT char_value FROM config WHERE name = 'TS_ALL_SET_TESTS_COMM2' 
+2023-05-27 20:26:29,260 - cobas6k - INFO - Return = [(None,)]
+2023-05-27 20:26:29,264 - cobas6k - INFO - Query - SELECT char_value FROM config WHERE name = 'TS_ALL_SET_TESTS_COMM3' 
+2023-05-27 20:26:29,270 - cobas6k - INFO - Return = [(None,)]
+2023-05-27 20:26:29,285 - cobas6k - INFO - Query - SELECT char_value FROM config WHERE name = 'TS_ALL_SET_TESTS_COMM4' 
+2023-05-27 20:26:29,288 - cobas6k - INFO - Return = [(None,)]
+2023-05-27 20:26:29,296 - cobas6k - INFO - Query - SELECT char_value FROM config WHERE name = 'TS_ALL_SET_TESTS_COMM5' 
+2023-05-27 20:26:29,301 - cobas6k - INFO - Return = [(None,)]
+2023-05-27 20:26:29,304 - cobas6k - INFO - TS REPLY:H|\^&|||Host^1|||||cobas6000|TSDWN^REPLY|P|1P|1|||||||U||||||^O|1|              SampleID|0^5238^1^^S1^SC|^^^149^1\^^^111^1\^^^515^1\^^^286^1|R||20230527132629||||A||||1||||||||||OC|1|L|SIMDONDAR^^^^|GL|1|N
+2023-05-27 20:26:29,309 - cobas6k - INFO - >>ENQ
+2023-05-27 20:26:29,338 - cobas6k - INFO - listening..
+2023-05-27 20:26:29,549 - cobas6k - INFO - >>H|\^&|||Host^1|||||cobas6000|TSDWN^REPLY|P|1P|1|||||||U||||||^O|1|              SampleID|0^5238^1^^S1^SC|^^^149^1\^^^111^1\^^^515^1\^^^286^1|R||20230527132629||||A||||1||||||||||OC|1|L|SIMDONDAR^^^^|GL|1|N
+2023-05-27 20:26:29,553 - cobas6k - INFO - error pasing H segment [['H', [[None], [None, '&']], None, None, ['H7600', '1'], None, None, None, None, 'Host', ['TSREQ', 'REAL'], 'P', '1']][sequence item 1: expected a bytes-like object, str found]
+2023-05-27 20:26:29,555 - cobas6k - INFO - ['Q', '1', [None, None, '              SampleID', '0', '5238', '1', None, 'S1', 'SC'], None, 'ALL', None, None, None, None, None, None, None, 'O']
+2023-05-27 20:26:29,556 - cobas6k - INFO - Unkown message.
+2023-05-27 20:26:29,556 - cobas6k - INFO - ['L', '1', 'N']
+2023-05-27 20:26:29,557 - cobas6k - INFO - => Terminate message
+2023-05-27 20:26:29,558 - cobas6k - INFO - [None]
+2023-05-27 20:26:29,561 - cobas6k - INFO - Unkown message.
+2023-05-27 20:27:43,220 - run_driver - INFO - Starting program.
+2023-05-27 20:27:43,221 - run_driver - INFO - VERSION [0.0.2]
+2023-05-27 20:27:43,222 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-27 20:27:43,223 - run_driver - INFO - TCP_PORT:5000
+2023-05-27 20:27:43,224 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-27 20:27:43,224 - run_driver - INFO - trying to run driver...
+2023-05-27 20:27:43,225 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-27 20:27:43,225 - cobas6k - INFO - cobas6k - 0.1.0 loaded.
+2023-05-27 20:27:43,226 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-27 20:27:43,226 - run_driver - INFO - Try run driver..
+2023-05-27 20:27:43,226 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-27 20:27:45,253 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-05-27 20:27:50,145 - run_driver - INFO - Starting program.
+2023-05-27 20:27:50,146 - run_driver - INFO - VERSION [0.0.2]
+2023-05-27 20:27:50,147 - run_driver - INFO - TCP_HOST:127.0.0.1
+2023-05-27 20:27:50,148 - run_driver - INFO - TCP_PORT:5000
+2023-05-27 20:27:50,150 - run_driver - INFO - SERVER SIMDONDAR:127.0.0.1
+2023-05-27 20:27:50,152 - run_driver - INFO - trying to run driver...
+2023-05-27 20:27:50,153 - cobas6k - INFO - Setup SIMDONDAR ke:127.0.0.1
+2023-05-27 20:27:50,154 - cobas6k - INFO - cobas6k - 0.1.0 loaded.
+2023-05-27 20:27:50,155 - cobas6k - INFO - MySQL server [127.0.0.1]
+2023-05-27 20:27:50,157 - run_driver - INFO - Try run driver..
+2023-05-27 20:27:50,184 - cobas6k - INFO - connection to [127.0.0.1:5000] ...
+2023-05-27 20:27:50,199 - cobas6k - INFO - Ready.
