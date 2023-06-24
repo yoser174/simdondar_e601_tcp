@@ -7,17 +7,18 @@
 # Date: 4 Mei 2017
 #
 
-import os
+import sys
 from cobas6k import cobas6k
 import logging.config
 import yaml
 import configparser
+import MySQLdb
 
 
 PORT_COM = 'COM0'
 SERVER = '127.0.0.1'
 DB_OFFLINE = True
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 
 message = """
 With running this program you aggreed to share data
@@ -28,6 +29,9 @@ Please read README.txt for licenses
 config = configparser.ConfigParser()
 config.read('run_driver.ini')
 SERVER = config.get('General','server')
+MY_USER = config.get('General','MY_USER')
+MY_PASS = config.get('General','MY_PASS')
+MY_DB = config.get('General','MY_DB')
 TCP_HOST = config.get('General','tcp_host')
 TCP_PORT = config.get('General','tcp_port')
 DB_OFFLINE = config.get('General','db_offline')
@@ -61,9 +65,25 @@ def main():
         except Exception as e:
            logging.error('Failed [%s]' % str(e))
 
+def check_mysql():
+    try:
+        conn = MySQLdb.connect(host= SERVER,
+                    user=MY_USER,
+                    passwd=MY_PASS,
+                    db=MY_DB)
+        cursor = conn.cursor()        
+        cursor.execute("SELECT VERSION()")
+        r = cursor.fetchall()
+        logging.info('Version [%s]' % r[0][0])
+    except MySQLdb.Error as e:
+        logging.error(e)
+        sys.exit(1)
+
 if __name__ == "__main__":
     with open('run_driver.yaml', 'rt') as f:
         config = yaml.safe_load(f.read())
         logging.config.dictConfig(config)
     logging.info('Starting program.')
+    logging.info('checking MySQL..')
+    check_mysql()
     main()

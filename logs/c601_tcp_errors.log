@@ -101,3 +101,11 @@
 2023-05-27 20:26:29,100 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|TSREQ^REAL|P|1\rQ|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||O\rL|1|N\r\r\x03'
 2023-05-27 20:26:29,104 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|TSREQ^REAL|P|1\rQ|1|^^              SampleID^0^5238^1^^S1^SC||ALL||||||||O\rL|1|N\r\r\x03'
 2023-05-27 20:27:45,253 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-06-24 14:01:41,451 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-06-24 14:02:24,209 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230624140221||||N||||1|||||||20230624140221|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-06-24 14:02:24,211 - cobas6k - ERROR - bytes expected, got '1H|\\^&|||H7600^1|||||Host|RSUPL^REAL|P|1\rP|1||PatID|||||M||||||40^Y\rO|1|SampleID              |1^5200^1^^S1^SC|^^^111^1|R||20230624140221||||N||||1|||||||20230624140221|||F\rC|1|I|Comm1                         ^Comm2                    ^Comm3               ^Comm4          ^Comm5     |G\rR|1|^^^111/1/not|9.5|g/l||N||F||BMSERV|||E11\rC|1|I|0|I\rL|1|N\r\r\x03'
+2023-06-24 14:22:14,248 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-06-24 14:22:34,679 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-06-24 14:23:19,923 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-06-24 14:23:51,152 - run_driver - ERROR - Failed [[WinError 10061] No connection could be made because the target machine actively refused it]
+2023-06-24 14:24:32,193 - run_driver - ERROR - (2005, "Unknown MySQL server host '1' (0)")
